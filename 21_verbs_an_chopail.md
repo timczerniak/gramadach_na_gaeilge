@@ -1,5 +1,6 @@
 # The Cupola (An Chopail)
 
+
 |                       | Present | Past and Conditional<br />(Before consonant<br >and before _fl-_/_fr-_) | Past and Conditional<br />(Before vowel and<br />before f + vowel) |
 | --------------------- | ------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **positive**          | is      | ba                                                           | b’                                                           |
@@ -60,9 +61,8 @@ which follows _ní_.
 * _Nach deas an lá é? Is deas / Ní deas._
 * _Nach intact an scéal é sin? Is iontach / Ní iontach._
 
-**Note:**
-When spoken, _is ea_, _is é_, _is í_ and _is iad_ sound like _sea_, _sé_, _sí_
-and _siad_.
+**Note:** When spoken, _is ea_, _is é_, _is í_ and _is iad_ sound like _sea_,
+_sé_, _sí_ and _siad_.
 
 
 ## Past and Conditional

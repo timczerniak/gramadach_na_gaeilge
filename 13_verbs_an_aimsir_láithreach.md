@@ -1,5 +1,6 @@
 # 13 Verbs 3 - An Aimsir Láithreach
 
+
 _An Aimsir Láithreach_ is the present tense (I go, I do, etc).
 
 
@@ -29,6 +30,7 @@ Verbs like _taispeáin_, _tiomáin_
 | ------------- | ----------- | -------------- | ------------- |
 | **taispeáin** | taispeánaim | taispeánann tú | taispeánaimid |
 | **tiomáin**   | tiomáinim   | tiomáineann tú | tiomáinimid   |
+
 
 ### Second conjugation
 
@@ -66,6 +68,7 @@ Verbs in present tense take an urú after _go_
 * _Deirtear go **bhfoghlaimíonn** done níos mó ar an dóigh sin._
 * _Tá a fhios agam go **n-imríonn** siad formhór na gcluichí ansin._
 
+
 ## Questions and answers
 
 _An_ is used for questions. After _an_, verbs starting with consonants take an urú.
@@ -86,6 +89,7 @@ For questions about you, you can choose to use the first person singular:
 
 * Q: _An bhfeiceann tú Liam go minic?_
 * A: _Feiceann._ / _Ní fheiceann._ / _Feicim._ / _Ní fheicim._
+
 
 ## The verb _Bí_
 
@@ -123,6 +127,7 @@ The aimsir ghnáthláithreach is used to talk about things that happen regularly
 
 
 ## First person plural
+
 There’s a choice in the first person plural form between a conjoined form and a separate form:
 * Téimid   / Téann muid
 * Ólaimid  / Ólann muid

@@ -20,7 +20,6 @@ _An Aimsir Chaite_ is the Past Tense (I went, I did, etc).
 | freastail | d’fhreastail mé |
 
 
-
 ### The first conjugation
 
 Most monosyllabic verbs:
@@ -52,7 +51,6 @@ Polysyllabic verbs ending with _-áin_:
 | **tiomáin**   | thiomáin mé           | thiomáineamar (note difference here) |
 
 
-
 ### The second conjugation
 
 Polysyllabic verbs that end with _-igh_:
@@ -80,7 +78,6 @@ Other Polysyllabic verbs:
 | **freastail** | d’fhreastail mé       | d’fhreastailíomar |
 
 
-
 ### Gur
 
 For verbs that start with a consonant, the séimhiú remains after _gur_
@@ -89,7 +86,6 @@ For verbs that start with a vowel or _f_, the _d’_ is removed after _gur_.
 * _Tá súil agam gur **cheannaigh** sé an ceann saor._
 * _Chuala mé gur **inis** sí an scéal go léir duit._
 * _Deirtear gur **fhreastail** siad ar an scoil chéanna._
-
 
 
 ### Questions and answers
@@ -114,7 +110,6 @@ Don’t use ordinary pronouns (mé/tú/sí/etc.) when answering questions simply
 * A: _Níor thóg. Bhí siad an-chiúin i mbliana._
 
 
-
 ## Irregular verbs
 
 | Root        | mé/tú/etc. | muid         | Negative      | Other                 |
@@ -130,7 +125,6 @@ Don’t use ordinary pronouns (mé/tú/sí/etc.) when answering questions simply
 | **tabhair** | thug mé    | thugamar     | níor thug     | ar/nár/gur thug       |
 | **tar**     | tháinig mé | thángamar    | níor tháinig  | ar/nár/gur tháinig    |
 | **téigh**   | chuaigh mé | chuamar      | ní dheachaigh | an/nach/go ndeachaigh |
-
 
 
 ## First person plural

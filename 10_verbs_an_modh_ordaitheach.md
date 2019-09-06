@@ -1,5 +1,6 @@
 # Verbs - An Modh Ordaitheach
 
+
 _An Modh Ordaitheach_ is the Subjunctive, i.e. what you use to give an order
 (Go!, Do!, etc).
 
@@ -10,11 +11,15 @@ depending on the verb conjugation.
 
 There are two conjugations of verbs in Irish:
 
-**First conjugation (*An chéad réimniú*)**
+
+### First conjugation (*An chéad réimniú*)
+
 Monosyllabic verbs like _bris_, _mol_ and _suigh_ and polysyllabic verbs that
 end with _-áil_ and _-áin_ like _sábháil_ and _taispeáin_.
 
-**Second conjugation (*An dara réimniú*)**
+
+### Second conjugation (*An dara réimniú*)
+
 Other polysyllabic verbs. Many of them end with _-igh_ like _ceannaigh_, and
 some others end with _-il_, _-ir_ and _-is_, like _ceangail_, _imir_ and _inis_.
 
@@ -57,6 +62,7 @@ add _-ígí_
 
 
 ## The second conjugation
+
 The second person singular is just the root.
 
 The second person plural is formed depending on the verb.
@@ -80,6 +86,7 @@ broad/slender.
 
 
 ## The Negative
+
 Put _ná_ in front of the verb. Put a _h_ at the start of the verb if it starts
 with a vowel.
 
@@ -89,6 +96,7 @@ with a vowel.
 
 
 ## The possessive adjectives _do_ and _bhur_
+
 This section seems out of place, find a better place for it.
 
 
@@ -110,8 +118,10 @@ This section seems out of place, find a better place for it.
 
 
 ## Personal pronouns
+
 This section seems out of place too
 
 
 ## Pronouns in daily speech
+
 This section seems out of place too

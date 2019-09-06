@@ -4,17 +4,24 @@
 ## Cases
 
 ### Ainmneach (Nominative) & Cuspóireach (Accusative)
+
 These are the same case; when a noun is the subject or object of a verb.
 
+
 ### Ginideach (Genitive)
+
 When a noun qualifies another noun without a preposition between them.
 Usually it indicates posession, but it has an adjective function at times,
 and it is used with verbal nouns also.
 
+
 ### Gairmeach (Vocative)
+
 Used to address people (a Sheán!)
 
+
 ### Tabharthach (Dative)
+
 When a noun follows a simple preposition and the article (ar an, ag an, sa, etc.)
 Something about the first consonant before the end of the word changing???
 
@@ -116,6 +123,7 @@ The nominative plural is formed by adding -a to the nominative singular
 | leabharlann | leabharlanna |
 
 The same form is used in the nominative singular and the genitive plural for nouns that have weak plurals
+
 | ns       | gpl                                                |
 | -------- | -------------------------------------------------- |
 | fear     | a lán fear (a lot of men)                          |
@@ -129,9 +137,11 @@ plural has the same form as the nominative singular.
 
 * **fear**, _m_. (_gs_. & _npl_. **-ir**, _gpl_. ~)
 
+
 ### Strong plurals (*tréaniolraí*)
 
 Every other noun has a strong plural. This means their plurals have the same form in every case:
+
 | ns         | npl & gpl     |
 | ---------- | ------------- |
 | briathar   | briathra      |
@@ -143,6 +153,7 @@ Every other noun has a strong plural. This means their plurals have the same for
 
 When a noun has a strong plural, there’s only one entry for the plural in a dictionary, e.g.:
 * **fadhb**, _f_. (_gs_. **faidhbe**, _pl_. **~anna**)
+
 
 ### Initial mutations of plurals
 
@@ -172,7 +183,9 @@ There is a hyphen between ’n’ and a lowercase vowel, but not between ’n’
 
 Nouns fit into 5 declensions. These are just general guidelines, and there are exceptions. Dictionary entries always have the correct forms.
 
+
 ### First declension
+
 **Group 1**: Masculine nouns that  end in a slender consonant in the nominative plural e.g.
 
 * an t-ábhar     na hábhair
@@ -197,13 +210,15 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 * an t-éadach    na héadaí
 * an soitheach   na soithí
 
-**Group 5: Masculine nouns that end with ‘-anna’ in every case plural e.g.
+**Group 5:** Masculine nouns that end with ‘-anna’ in every case plural e.g.
 
 * an bás         na básanna
 * an carr        na carranna
 * an leigheas    na leigheasanna
 
+
 ### Second declension
+
 **Group 1**: Feminine nouns that end with ‘-a’ in the nominative plural e.g.
 
 * an bhaintreach   na baintreacha
@@ -240,7 +255,9 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 * an choill        na coillte
 * an linn          na linnte
 
+
 ### Third declension
+
 **Group 1**: Nouns that are masculine for the most part, which end in ‘-éir’, ‘-eoir’, ‘-óir’ or ‘-úir’ in the singular, and that have ‘-í’ in every case plural. They are all careers, e.g.
 
 * an búistéir       na búistéirí
@@ -259,7 +276,9 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 * an leacht         na leachtanna
 * an sos            na sosanna
 
+
 ### Fourth declension
+
 **Group 1**: Masculine nouns that end with ‘-ín’ in the singular and in ‘-í’ in every case plural e.g.
 
 * an cailín    na cailíní
@@ -301,7 +320,9 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 * an pas         na pasanna
 * an seic        na seiceanna
 
+
 ### Fifth declension
+
 **Group 1**: Feminine nouns that end with a slender consonant in the singular. The last consonant is broadened and ‘-acha’ added for every case plural e.g.
 
 * an riail      na rialacha
@@ -313,6 +334,7 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 * an chathair   na cathracha
 * an eochair    na heochracha
 * an uimhir     na huimhreacha
+
 
 ### Irregular nouns
 
