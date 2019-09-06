@@ -30,8 +30,8 @@ Something about the first consonant before the end of the word changing???
 
 The listing title is always in the nominative singular.
 
-A tilde is used to signify the word in _ns_ form, e.g. ‘~a’ means the _ns_ form
-followed by ‘-a’.
+A tilde is used to signify the word in _ns_ form, e.g. **~a** means the _ns_
+form followed by _-a_.
 
 Glossary of abbreviations:
 
@@ -104,7 +104,7 @@ There is a hyphen when there are three parts in a joint word:
 
 A noun has a weak plural when:
 
-The nominative plural ends with a slender consonant (e.g. -in, -ir, -is)
+The nominative plural ends with a slender consonant (e.g. _-in_, _-ir_, _-is_)
 
 | ns        | npl        |
 | --------- | ---------- |
@@ -113,7 +113,7 @@ The nominative plural ends with a slender consonant (e.g. -in, -ir, -is)
 | iarratas  | iarratais  |
 | teaghlach | teaghlaigh |
 
-The nominative plural is formed by adding -a to the nominative singular
+The nominative plural is formed by adding _-a_ to the nominative singular
 
 | ns          | npl          |
 | ----------- | ------------ |
@@ -122,7 +122,8 @@ The nominative plural is formed by adding -a to the nominative singular
 | dialann     | dialanna     |
 | leabharlann | leabharlanna |
 
-The same form is used in the nominative singular and the genitive plural for nouns that have weak plurals
+The same form is used in the nominative singular and the genitive plural for
+nouns that have weak plurals
 
 | ns       | gpl                                                |
 | -------- | -------------------------------------------------- |
@@ -140,7 +141,8 @@ plural has the same form as the nominative singular.
 
 ### Strong plurals (*tréaniolraí*)
 
-Every other noun has a strong plural. This means their plurals have the same form in every case:
+Every other noun has a strong plural. This means their plurals have the same
+form in every case:
 
 | ns         | npl & gpl     |
 | ---------- | ------------- |
@@ -151,18 +153,23 @@ Every other noun has a strong plural. This means their plurals have the same for
 | feidhm     | feidhmeanna   |
 | tuarascáil | tuarascálacha |
 
-When a noun has a strong plural, there’s only one entry for the plural in a dictionary, e.g.:
+When a noun has a strong plural, there’s only one entry for the plural in a
+dictionary, e.g.:
+
 * **fadhb**, _f_. (_gs_. **faidhbe**, _pl_. **~anna**)
 
 
 ### Initial mutations of plurals
 
-The initial consonants of plural words are not given a séimhú after _na_, even if the noun is feminine. e.g.
+The initial consonants of plural words are not given a séimhú after _na_, even
+if the noun is feminine:
+
 * **singular**   **plural**
 * an mheánscoil  na meánscoileanna
 * an teach       na tithe
 
-A ‘h’ is put before initial vowels of plurals in the nominative/accusative case. E.g.
+A ‘h’ is put before initial vowels of plurals in the nominative/accusative case:
+
 * **singular**  **plural**
 * an t-ógánach  na hógánaigh
 * an t-ábhar    na hábhair
@@ -170,47 +177,55 @@ A ‘h’ is put before initial vowels of plurals in the nominative/accusative c
 
 ## The hyphen
 
-A hyphen is never put between ‘h’ and a vowel or between ’t’ and ’s’, e.g. _na héin_, _na hiarsmalanna_, _an tsráid_, _an tsaotharlann_.
+A hyphen is never put between **h** and a vowel or between **t** and **s**,
+e.g. _na héin_, _na hiarsmalanna_, _an tsráid_, _an tsaotharlann_.
 
-In the nominative/accusative singular, a ’t-‘ is put before masculine nouns that start with a lowercase vowel, e.g. _an t-athair_, _an t-aisteoir_.
+In the nominative/accusative singular, a _t-_ is put before masculine nouns that
+start with a lowercase vowel, e.g. _an t-athair_, _an t-aisteoir_.
 
-A hyphen is not put between ’t’ and an uppercase vowel, e.g. _an tEaspag Ó Dálaigh_, _an tAthair Liam Ó Murchú_.
+A hyphen is not put between **t** and an uppercase vowel,
+e.g. _an tEaspag Ó Dálaigh_, _an tAthair Liam Ó Murchú_.
 
-There is a hyphen between ’n’ and a lowercase vowel, but not between ’n’ and an uppercase vowel, e.g. _Bhí ár n-athair as baile_, _Cuireadh moill ar ár n-iarratas_, _Ár nAthair atá ar neamh_, _tréithe na nIodálach_.
+There is a hyphen between **n** and a lowercase vowel, but not between **n** and
+an uppercase vowel,
+e.g. _Bhí ár n-athair as baile_, _Cuireadh moill ar ár n-iarratas_,
+_Ár nAthair atá ar neamh_, _tréithe na nIodálach_.
 
 
 ## Endings of nouns in the nominative plural
 
-Nouns fit into 5 declensions. These are just general guidelines, and there are exceptions. Dictionary entries always have the correct forms.
+Nouns fit into 5 declensions. These are just general guidelines, and there are
+exceptions. Dictionary entries always have the correct forms.
 
 
 ### First declension
 
-**Group 1**: Masculine nouns that  end in a slender consonant in the nominative plural e.g.
+**Group 1**: Masculine nouns that  end in a slender consonant in the nominative
+plural:
 
 * an t-ábhar     na hábhair
 * an bacach      na bacaigh
 * an sagart      na sagairt
 
-**Group 2**: Masculine nouns that end with ‘-a’ in the nominative plural e.g.
+**Group 2**: Masculine nouns that end with _-a_ in the nominative plural:
 
 * an ceart       na cearta
 * an t-úll       na húlla
 * an fiach       na fiacha
 
-**Group 3**: Masculine nouns that end with ‘-ta’ in all cases plural e.g.
+**Group 3**: Masculine nouns that end with _-ta_ in all cases plural:
 
 * an dán         na dánta
 * an lón         na lónta
 * an síol        na síolta
 
-**Group 4**: Masculine nouns that end with ‘-(a)í’ in every case plural, e.g.
+**Group 4**: Masculine nouns that end with _-(a)í_ in every case plural:
 
 * an bealach     na bealaí
 * an t-éadach    na héadaí
 * an soitheach   na soithí
 
-**Group 5:** Masculine nouns that end with ‘-anna’ in every case plural e.g.
+**Group 5:** Masculine nouns that end with _-anna_ in every case plural:
 
 * an bás         na básanna
 * an carr        na carranna
@@ -219,37 +234,37 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 
 ### Second declension
 
-**Group 1**: Feminine nouns that end with ‘-a’ in the nominative plural e.g.
+**Group 1**: Feminine nouns that end with _-a_ in the nominative plural:
 
 * an bhaintreach   na baintreacha
 * an chos          na cosa
 * an tslat         na slata
 
-**Group 2**: Feminine nouns that end with ‘-í’ in every case plural e.g.
+**Group 2**: Feminine nouns that end with _-í_ in every case plural:
 
 * an abairt        na habairtí
 * an liathróid     na liathróidí
 * an tsochraid     na sochraidí
 
-**Group 3**: Feminine nouns that end with ‘-(e)anna’ in every case plural e.g.
+**Group 3**: Feminine nouns that end with _-(e)anna_ in every case plural:
 
 * an aois          na haoiseanna
 * an fhuaim        na fuaimeanna
 * an fhadhb        na fadhbeanna
 
-**Group 4**: Feminine nouns that end with ‘-(e)acha’ in every case plural e.g.
+**Group 4**: Feminine nouns that end with _-(e)acha_ in every case plural:
 
 * an charraig      na charraigeacha
 * an iníon         na hiníonacha
 * an stoirm        na stoirmeach
 
-**Group 5**: Feminine nouns that end with ‘-ta’ in every case plural e.g.
+**Group 5**: Feminine nouns that end with _-ta_ in every case plural:
 
 * an bhuíon        na buíonta
 * an ghrian        na grianta
 * an tonn          na tonnta
 
-**Group 6**: Feminine nouns that end with ‘-te’ in every case plural e.g.
+**Group 6**: Feminine nouns that end with _-te_ in every case plural:
 
 * an aill          na haillte
 * an choill        na coillte
@@ -258,19 +273,23 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 
 ### Third declension
 
-**Group 1**: Nouns that are masculine for the most part, which end in ‘-éir’, ‘-eoir’, ‘-óir’ or ‘-úir’ in the singular, and that have ‘-í’ in every case plural. They are all careers, e.g.
+**Group 1**: Nouns that are masculine for the most part, which end in _-éir_,
+_-eoir_, _-óir_ or _-úir_ in the singular, and that have _-í_ in every case
+plural. They are all careers:
 
 * an búistéir       na búistéirí
 * an ceoltóir       na ceoltóirí
 * an dochtúir       na dochtúirí
 
-**Group 2**: Masculine and feminine nouns that end with ‘-(a)í’ in every case plural e.g.
+**Group 2**: Masculine and feminine nouns that end with _-(a)í_ in every case
+plural:
 
 * an aidiacht       na haidiachtaí
 * an ghluaiseacht   na gluaiseachtaí
 * an íobairt        na híobairtí
 
-**Group 3**: Masculine and feminine nouns that end with ‘-anna’ in every case plural
+**Group 3**: Masculine and feminine nouns that end with _-anna_ in every case
+plural:
 
 * an dath           na dathanna
 * an leacht         na leachtanna
@@ -279,42 +298,50 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 
 ### Fourth declension
 
-**Group 1**: Masculine nouns that end with ‘-ín’ in the singular and in ‘-í’ in every case plural e.g.
+**Group 1**: Masculine nouns that end with _-ín_ in the singular and in _-í_ in
+every case plural:
 
 * an cailín    na cailíní
 * an féirín    na féiríní
 * an toitín    na toitíní
 
-**Group 2**: Nouns that are masculine for the most part, that end with ‘-a’ in the singular and end with ‘-í’ in every case plural e.g.
+**Group 2**: Nouns that are masculine for the most part, that end with _-a_ in
+the singular and end with _-í_ in every case plural:
 
 * an bata      na bataí
 * an t-earra   na hearraí
 * an siopa     na siopaí
 
-**Group 3**: Masculine and feminine nouns that end with ‘-e’ in the singular and end with ‘-í’ in every case plural e.g.
+**Group 3**: Masculine and feminine nouns that end with _-e_ in the singular and
+end with _-í_ in every case plural:
 
 * an béile       na béilí
 * an t-oráiste   na horáistí
 * an páiste      na páistí
 
-**Group 4**: Masculine and feminine nouns that  end with ‘-e’ in the singular and end with ‘-te’ in every case plural e.g.
+**Group 4**: Masculine and feminine nouns that end with _-e_ in the singular and
+end with _-te_ in every case plural:
 
 * an baile       na bailte
 * an fhéile      na féilte
 * an tine        na tinte
-**Group 5**: Masculine nouns that end with ‘-(a)í’ in the singular and end with ‘-(a)ithe’ in every case plural e.g.
+
+**Group 5**: Masculine nouns that end with _-(a)í_ in the singular and end with
+_-(a)ithe_ in every case plural:
 
 * an t-ainmhí    na hainmhithe
 * an gadaí       na gataithe
 * an t-oibrí     na hoibrithe
 
-**Group 6**: Masculine and feminine nouns that end with a vowel in the singular and end with ‘-nna’ in every case plural e.g.
+**Group 6**: Masculine and feminine nouns that end with a vowel in the singular
+and end with _-nna_ in every case plural:
 
 * an brú         na brúnna
 * an cú          na cúnna
 * an glao        na glaonna
 
-**Group 7**: Masculine and feminine nouns that end with ‘-(e)anna’ in every case plural e.g.
+**Group 7**: Masculine and feminine nouns that end with _-(e)anna_ in every case
+plural:
 
 * an bus         na busanna
 * an pas         na pasanna
@@ -323,13 +350,15 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 
 ### Fifth declension
 
-**Group 1**: Feminine nouns that end with a slender consonant in the singular. The last consonant is broadened and ‘-acha’ added for every case plural e.g.
+**Group 1**: Feminine nouns that end with a slender consonant in the singular.
+The last consonant is broadened and _-acha_ added for every case plural:
 
 * an riail      na rialacha
 * an cháin      na cánacha
 * an treoir     na treoracha
 
-**Group 2**: Feminine nouns that are shortened and ‘-(e)acha’ added in every case plural e.g.
+**Group 2**: Feminine nouns that are shortened and _-(e)acha_ added in every
+case plural:
 
 * an chathair   na cathracha
 * an eochair    na heochracha
@@ -338,11 +367,13 @@ Nouns fit into 5 declensions. These are just general guidelines, and there are e
 
 ### Irregular nouns
 
-* bean / mná
-* bó / ba
-* dia / déithe
-* lá / laethanta
-* leaba / leapacha
-* mí / míonna
-* talamh / tailte
-* teach / tithe
+| Singular | Plural    |
+| -------- | --------- |
+| bean     | mná       |
+| bó       | ba        |
+| dia      | déithe    |
+| lá       | laethanta |
+| leaba    | leapacha  |
+| mí       | míonna    |
+| talamh   | tailte    |
+| teach    | tithe     |
