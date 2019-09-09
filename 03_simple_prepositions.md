@@ -97,11 +97,12 @@ Verbal nouns are not given a séimhiú after _gan_:
 
 ### _Idir_
 
-A séimhiu follows _idir_ when "both" or a list are in question:
+A séimhiu follows _idir_ when there's a list involved:
 
 * _Bhí idir **bh**uachaillí agus **ch**ailíní i láthair._
 
-A séimhiú does not follow _idir_ when "eatarthu", space, or time are in question:
+A séimhiú does not follow _idir_ when there's a noun similar to "eatarthu", or
+if space or time are involved:
 
 * _argóint idir beirt pholaiteoirí_
 * _idir Baile Átha Cliath agus Corcaigh_
@@ -137,18 +138,18 @@ _g_, _s_ or _t_. I.e. it's _Beidh sí anseo um **th**rathnóna._, but
 _an Institiúid um Bainistíocht Uisce agus an Chomhshaoil_.
 
 
-## _I_ and _In_
+### _I_ and _In_
 
 _I_ is normally just _i_ before a consonant:
 
-* _i mBaile Átha Cliath_
-* _i gCorcaigh_
+* _**i** mBaile Átha Cliath_
+* _**i** gCorcaigh_
 
 The form _in_ is used before a vowel and before the title of a book, film, TV
 programme, etc.:
 
-* _Tá sé ina chónaí in Eochaill anois._
-* _Fuair sí páirt in 'Fair City'._
+* _Tá sé ina chónaí **in** Eochaill anois._
+* _Fuair sí páirt **in** 'Fair City'._
 
 The form _in_ is also used in these specific cases:
 
@@ -158,8 +159,8 @@ The form _in_ is also used in these specific cases:
 The form _in_ is used before placenames abroad that don't have an Irish
 translation:
 
-* _in San Francisco agus in Rennes_
-* _i mBostún agus i Londain_
+* _**in** San Francisco agus **in** Rennes_
+* _**i** mBostún agus **i** Londain_
 
 
 ### _Trí_
@@ -172,22 +173,22 @@ The form _trí_ is used before nouns and with the plural article _na_:
 The form _tríd_ is used with the singular article _an_ (It's incorrect to use it
 with _na_):
 
-* _Thiomáin mé tríd an mbaile._
-* _Thiomáin mé trí na sráideanna._
+* _Thiomáin mé **tríd** an mbaile._
+* _Thiomáin mé **trí** na sráideanna._
 
 
 ## Body parts
 
 _Ar_ is used with body parts that are outside the main body:
 
-* _Tá gruaig fhada ar Shíle anois._
-* _Tá cosa an fhada ar Mháirtín._
+* _Tá gruaig fhada **ar** Shíle anois._
+* _Tá cosa an fhada **ar** Mháirtín._
 
 _Ag_ is used for internal body parts inside the main body:
 
-* _Tá droch-chroí ag Susan._
-* _Tá súile áille ag Caoimhe._
-* _Tá drochfhiacla ag Dáithí._
+* _Tá droch-chroí **ag** Susan._
+* _Tá súile áille **ag** Caoimhe._
+* _Tá drochfhiacla **ag** Dáithí._
 
 
 ## Simple Prepositions Before Nouns Starting With a Vowel
@@ -205,7 +206,7 @@ not affect a following noun if it starts with a vowel:
 * _Ghlaoigh mé **ar** úinéir an árasáin._
 * _Ná gabh ansin **gan** airgead._
 * _Stop mé uair amháin **idir** Eochaill agus Baile Átha Luain._
-* _Tá sí ina cónaí in Éirinn le bliain anois._
+* _Tá sí ina cónaí **in** Éirinn le bliain anois._
 
 The prepositions _de_ and _do_ are abbreviated before a vowel or before _f_ + a
 vowel:
