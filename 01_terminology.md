@@ -28,6 +28,16 @@ _**Consain**_ - Consonant
 
 _**Tuiseal**_ - Case
 
+_**An tuiseal ainmneach**_ - The nominative case
+
+_**An tuiseal cuspóireach**_ - The accusative case
+
+_**An tuiseal ginideach**_ - The genitive case
+
+_**An tuiseal gairmeach**_ - The vocative case
+
+_**An tuiseal tabharthach**_ - The dative case
+
 _**Ainmfhocal bhriathartha**_ - Verbal noun
 
 _**Firinscneach**_ - Masculine
