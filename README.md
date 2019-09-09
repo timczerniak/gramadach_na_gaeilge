@@ -5,7 +5,7 @@
 1. [Terminology](01_terminology.md)
 2. [Nouns](02_nouns.md)
 3. [Simple Prepositions](03_simple_prepositions.md)
-4. [Simple Prepositions with the Article](03_simple_prepositions_with_the_article.md)
+4. [Simple Prepositions with the Article](04_simple_prepositions_with_the_article.md)
 10. [Verbs - An Modh Ordaitheach](10_verbs_an_modh_ordaitheach.md)
 11. [Verbs - An Aimsir Chaite](11_verbs_an_aimsir_chaite.md)
 13. [Verbs - An Aimsir Láithreach](13_verbs_an_aimsir_láithreach.md)
