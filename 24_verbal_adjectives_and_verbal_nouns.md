@@ -33,7 +33,7 @@ If a monosyllabic root ends with _-gh_, replace it with _-te_
 | faigh  | faighte (This is the one exception) |
 
 If a verb root ends with _-b_, _-c_, _-g_, _-m_, _-p_ or _-r_, add _-tha_ for
-broad and _-te_ for slender
+broad and _-the_ for slender
 
 | Root (broad) | Verbal Adjective | Root (slender) | Verbal Adjective |
 | ------------ | ---------------- | -------------- | ---------------- |
@@ -62,6 +62,7 @@ _-the_
 | bailigh   | bailithe         |
 
 If a verb root ends with _-t_, just add or _-a_ for broad and _-e_ for slender
+
 | Root (broad) | Verbal Adjective | Root (slender) | Verbal Adjective |
 | ------------ | ---------------- | -------------- | ---------------- |
 | tacht        | tachta           | scoilt         | scoilte          |
@@ -75,7 +76,7 @@ If a verb ends with _-bh_ or _-mh_, replace it with _-fa_
 | scríobh | scríofa          |
 
 
-### Irregular verbal adjectives
+### Irregular Verbal Adjectives
 
 | Root    | Verbal Adjective |
 | ------- | ---------------- |
@@ -109,23 +110,23 @@ _-aigh_ or _-igh_ with _-ú_ or _-iú_:
 
 These are verbs that end with _-aigh_ or _-igh_ that have irregular verbal nouns:
 
-| Root      | Verbal Noun || Root         | Verbal Noun |
-| --------- | ----------- || ------------ | ----------- |
-| admhaigh  | admháil     || eisigh       | eisiúint    |
-| báigh     | bá          || fiafraigh    | fiafraí     |
-| brúigh    | brú         || glaoigh      | glaoch      |
-| buaigh    | buachan     || guigh        | guí         |
-| ceannaigh | ceannach    || imigh        | imeacht     |
-| cloígh    | cloí        || impigh       | impí        |
-| coinnigh  | coinneáil   || ionsaigh     | ionsaí      |
-| cónaigh   | cónaí       || léigh        | léamh       |
-| cráigh    | crá         || luigh        | luí         |
-| cuardaigh | cuardach    || nigh         | ní          |
-| cuimhnigh | cuimhneamh  || pléigh       | plé         |
-| dóigh     | dó          || sásaigh      | sásamh      |
-| dúisigh   | dúiseacht   || smaoinigh    | smaoineamh  |
-| éiligh    | éileamh     || suigh        | suí         |
-| éirigh    | éirí        || téigh (heat) | téamh       |
+| Root      | Verbal Noun | Root         | Verbal Noun |
+| --------- | ----------- | ------------ | ----------- |
+| admhaigh  | admháil     | eisigh       | eisiúint    |
+| báigh     | bá          | fiafraigh    | fiafraí     |
+| brúigh    | brú         | glaoigh      | glaoch      |
+| buaigh    | buachan     | guigh        | guí         |
+| ceannaigh | ceannach    | imigh        | imeacht     |
+| cloígh    | cloí        | impigh       | impí        |
+| coinnigh  | coinneáil   | ionsaigh     | ionsaí      |
+| cónaigh   | cónaí       | léigh        | léamh       |
+| cráigh    | crá         | luigh        | luí         |
+| cuardaigh | cuardach    | nigh         | ní          |
+| cuimhnigh | cuimhneamh  | pléigh       | plé         |
+| dóigh     | dó          | sásaigh      | sásamh      |
+| dúisigh   | dúiseacht   | smaoinigh    | smaoineamh  |
+| éiligh    | éileamh     | suigh        | suí         |
+| éirigh    | éirí        | téigh (heat) | téamh       |
 
 For some verbs, you add a _-t_ to form the verbal noun:
 
@@ -212,7 +213,7 @@ For these verbs, the last consonant of the root is broadened to form the verbal 
 | tomhais   | tomhas       |
 
 
-### Irregular Verbal nouns
+### Irregular Verbal Nouns
 
 | Root   | Verbal Noun  |
 | ------ | ------------ |
@@ -253,7 +254,7 @@ when _a_ + a verbal noun follow it:
 * _tar éis_ + _an dinnéar_ + _a_ + _ullmhú_ = _tar éis an dinnéar a ullmhú_
 * _tar éis_ + _an scoil_ +  _a_ + _fhágáil_ = _tar éis an scoil a fhágáil_
 
-When there is not a direct target in a sentence, this is the word order in
+When there is no direct target in a sentence, this is the word order in
 question:
 
 * _Ba bhreá liom bualadh le Bríd_
