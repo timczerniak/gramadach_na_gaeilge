@@ -44,7 +44,7 @@ If the verb ends in _-áil_ or _-áin_, broaden the l or n, and add _-aigí_
 | marcáil               | marcálaigí          |
 | taispeáin             | taispeánaigí        |
 
-For verbs like _dóigh_ and _téigh_ that have a fada vowel, lose the _-igh_ and
+For verbs like _dóigh_ and _léigh_ that have a fada vowel, lose the _-igh_ and
 add _-igí_
 
 | First person singular | First person plural |
