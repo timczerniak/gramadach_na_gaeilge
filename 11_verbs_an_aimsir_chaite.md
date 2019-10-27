@@ -31,11 +31,11 @@ Most monosyllabic verbs:
 
 Monosyllabic verbs that end with _-igh_:
 
-|           | mé/tú/sé/sí/sibh/siad | muid    |
-| --------- | --------------------- | ------- |
-| **dóigh** | dhóigh mé             | dhómar  |
-| **léigh** | léigh mé              | léamar  |
-| **suigh** | shuigh mé             | suíomar |
+|           | mé/tú/sé/sí/sibh/siad | muid     |
+| --------- | --------------------- | -------- |
+| **dóigh** | dhóigh mé             | dhómar   |
+| **léigh** | léigh mé              | léamar   |
+| **suigh** | shuigh mé             | shuíomar |
 
 Polysyllabic verbs ending with _-áil_:
 
