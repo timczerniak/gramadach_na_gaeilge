@@ -41,7 +41,6 @@ Polysyllabic verbs ending in _-igh_
 | **ceannaigh** | ceannaím | ceannaíonn tú | ceannaímid |
 | **imigh**     | imím     | imíonn tú     | imímid     |
 
-
 Polysyllabic verbs ending in _-il_, _-in_, _-ir_ and _-is_.
 Notice that the last diphthong in the root is removed in the _muid_ form:
 
