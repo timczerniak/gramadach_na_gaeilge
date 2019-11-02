@@ -45,12 +45,14 @@ Glossary of abbreviations:
 
 ## The article before nouns in the nominative/accusative
 
-|                           | Masculine                   | Feminine                                            |
-| ------------------------- | --------------------------- | --------------------------------------------------- |
-| starting with a vowel     | an t-easpag                 | an iris                                             |
-| starting with a consonant | an bainisteoir              | an bhean                                            |
-| starting with an s        | an sagart                   | an tsiúr<br />(no t before sc-, sf-, sm-, sp-, st-) |
-| starting with d or t      | an duine<br />an tionscadal | an deirfiúr<br />an tine                            |
+| first letter | Masculine                   | Feminine                                            |
+| ------------ | --------------------------- | --------------------------------------------------- |
+| vowel        | an t-easpag                 | an iris                                             |
+| consonant    | an bainisteoir              | an bhean                                            |
+| s            | an sagart                   | an tsiúr<br />(no t before sc-, sf-, sm-, sp-, st-) |
+| d or t       | an duine<br />an tionscadal | an deirfiúr<br />an tine                            |
+
+
 
 
 ## Plural meaning
