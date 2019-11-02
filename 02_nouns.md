@@ -53,6 +53,35 @@ Glossary of abbreviations:
 | d or t       | an duine<br />an tionscadal | an deirfiúr<br />an tine                            |
 
 
+## Gender
+
+These are general rules for figuring out the gender of a noun. These rules
+account for the vast majority of nouns, but there are exceptions. Note: the list
+of exceptions given below are just examples and are not exhaustive.
+
+
+### Masculine nouns
+
+|                                                                          | Examples                            | Exceptions                      |
+| ------------------------------------------------------------------------ | ----------------------------------- | ------------------------------- |
+| Words that end with a broad consonant or vowel                           | _béal_, _amhrán_, _treo_, _pictiúr_ | _méar_, _deirfiúr_, _scread_    |
+| Occupations ending in _-óir_/_-oir_,<br />_-éir_/_-eir_ or _-úir_/_-uir_ | _ceoltóir_, _báicéir_, _dochtúir_   |                                 |
+| Monosyllabic words ending in _-eacht_ or _-acht_                         | _ceacht_, _fuacht_                  | créacht, léacht, uacht, nuacht  |
+| Words ending with the diminuitive suffix _-ín_                           | _cailín_                            | _aintín_, _ealaín_, _muinín_    |
+| Words ending with _-ste_                                                 | _páiste_, _coiste_                  | _timpiste_, _aiste_, _tubaiste_ |
+| Loanwords from other languages                                           | _vóta_, _bicycle_                   |                                 |
+
+
+### Feminine nouns
+
+|                                                  | Examples                                 | Exceptions                           |
+| ------------------------------------------------ | ---------------------------------------- | ------------------------------------ |
+| Words that end with a slender consonant or vowel | _barúil_, _uirlis_, _sráid_, _uaine_     | _uncail_, _droim_, _duine_, _ainmhí_ |
+| Polysyllabic words ending in _-acht_ or _-íocht_ | _gluaiseacht_, _beannacht_               | _bunreacht_, _fanacht_, _imeacht_    |
+| Places or locations ending in _-lann_            | _bialann_, _léachtlann_, _pictiúrlann_   |                                      | 
+| Words ending in _-eog_ or _-óg_                  | _spideog_, _bábóg_, _feadóg_             | _dallamullóg_                        |
+| Words ending in _-chan_                          | _athbheochan_, _beochan_                 | _meáchan_                            |
+| Countries, languages and rivers                  | _an Fhrainc_, _an Bhóinn_, _an Ghaeilge_ | _Sasana_, _an Béarla_                |
 
 
 ## Plural meaning
