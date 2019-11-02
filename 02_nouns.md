@@ -28,10 +28,10 @@ Something about the first consonant before the end of the word changing???
 
 ## Looking up nouns in the dictionary
 
-The listing title is always in the nominative singular.
+The listing title is always in the nominative singular (_ns_).
 
 A tilde is used to signify the word in _ns_ form, e.g. **~a** means the _ns_
-form followed by _-a_.
+form with _-a_ added to the end.
 
 Glossary of abbreviations:
 
@@ -43,7 +43,7 @@ Glossary of abbreviations:
 * _gpl_ - genitive plural
 
 
-## The article before and after nouns in the nominative/accusative
+## The article before nouns in the nominative/accusative
 
 |                           | Masculine                   | Feminine                                            |
 | ------------------------- | --------------------------- | --------------------------------------------------- |
@@ -104,26 +104,22 @@ There is a hyphen when there are three parts in a joint word:
 
 A noun has a weak plural when:
 
-The nominative plural ends with a slender consonant (e.g. _-in_, _-ir_, _-is_)
+The nominative plural ends with a slender consonant, or by adding _-a_ to the
+nominative singular
 
-| ns        | npl        |
-| --------- | ---------- |
-| ball      | baill      |
-| dualgas   | dualgais   |
-| iarratas  | iarratais  |
-| teaghlach | teaghlaigh |
+| ns          | npl              |
+| ----------- | ---------------- |
+| ball        | ba**ill**        |
+| dualgas     | dualga**is**     |
+| iarratas    | iarrata**is**    |
+| teaghlach   | teaghla**igh**   |
+| beart       | beart**a**       |
+| bileog      | bileog**a**      |
+| dialann     | dialann**a**     |
+| leabharlann | leabharlann**a** |
 
-The nominative plural is formed by adding _-a_ to the nominative singular
-
-| ns          | npl          |
-| ----------- | ------------ |
-| beart       | bearta       |
-| bileog      | bileoga      |
-| dialann     | dialanna     |
-| leabharlann | leabharlanna |
-
-The same form is used in the nominative singular and the genitive plural for
-nouns that have weak plurals
+When a noun has a weak plural, the same form is used in the nominative singular
+and the genitive plural.
 
 | ns       | gpl                                                |
 | -------- | -------------------------------------------------- |
@@ -136,7 +132,7 @@ entry (e.g. Foclóir Gaeilge-Béarla Néill Uí Dhónaill), the nominative plura
 the genitive plural. In the case below, the tilde indicates that the genitive
 plural has the same form as the nominative singular.
 
-* **fear**, _m_. (_gs_. & _npl_. **-ir**, _gpl_. ~)
+**fear**, _m_. (_gs_. & _npl_. **-ir**, _gpl_. ~)
 
 
 ### Strong plurals (*tréaniolraí*)
@@ -156,7 +152,7 @@ form in every case:
 When a noun has a strong plural, there’s only one entry for the plural in a
 dictionary, e.g.:
 
-* **fadhb**, _f_. (_gs_. **faidhbe**, _pl_. **~anna**)
+**fadhb**, _f_. (_gs_. **faidhbe**, _pl_. **~anna**)
 
 
 ### Initial mutations of plurals
@@ -175,7 +171,7 @@ A ‘h’ is put before initial vowels of plurals in the nominative/accusative c
 * an t-ábhar    na hábhair
 
 
-## The hyphen
+## Hyphens
 
 A hyphen is never put between **h** and a vowel or between **t** and **s**,
 e.g. _na héin_, _na hiarsmalanna_, _an tsráid_, _an tsaotharlann_.

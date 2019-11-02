@@ -176,8 +176,8 @@ A noun has a weak plural when:
 * The nominative plural ends with a slender consonant (e.g. _-in_, _-ir_, _-is_)
 * The nominative plural is formed by adding _-a_ to the nominative singular
 
-The same form is used in the nominative singular and the genitive plural for
-nouns that have weak plurals:
+For nouns that have weak plurals, the same form is used in the nominative
+singular and the genitive plural:
 
 | ns        | npl      | gpl       |
 | --------- | -------- | --------- |
@@ -246,7 +246,7 @@ When a definite noun is in the genitive, it is said that that genitive is a
 
 ## Definite Units of Meaning
 
-A unit of meaning is a definite one when it ends with a definite noun.
+A unit of meaning is definite when it ends with a definite noun.
 
 * _cathair Chorcaí_
 * _mír a trí_
@@ -268,8 +268,7 @@ given a séimhiú:
 (c) _timpeall **ch**lós na scoile_
 (d) _ag plé **fh**adhbanna **mh**ac Sheáin_
 
-This rule is called **Nominative Form Instead of Genitive**, or
-_**Foirm an ainmnigh in ionad an ghinidigh**_.
+This rule is called _**Foirm an ainmnigh in ionad an ghinidigh**_.
 
 
 ## Verbal Nouns Inside Definite Units of Meaning
