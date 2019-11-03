@@ -162,7 +162,7 @@ There is an urú on a noun when the article **na** comes before it in the
 genitive case:
 
 * _na bileoga_ -> _ag seoladh na **m**bileog_
-* _na hinstitiúidí_ -> _baill na **n-**institiúidí**_
+* _na hinstitiúidí_ -> _baill na **n-**institiúidí_
 * _na tuarascálacha_ -> _foilsiú na **d**tuarascálacha_
 
 When a vowel is given an urú, there is a hyphen between the **n** and the word.
