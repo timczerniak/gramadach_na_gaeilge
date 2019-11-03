@@ -162,14 +162,14 @@ There is an urú on a noun when the article **na** comes before it in the
 genitive case:
 
 * _na bileoga_ -> _ag seoladh na **m**bileog_
-* _na hinstitiúidí_ -> _baill na **n-**institiúidí_
+* _na hinstitiúidí_ -> _baill na **n**-institiúidí_
 * _na tuarascálacha_ -> _foilsiú na **d**tuarascálacha_
 
 When a vowel is given an urú, there is a hyphen between the **n** and the word.
 However, if the Vowel is a capitol letter, there is no hyphen:
 
-* _na hairteagail_ -> _ag dréachtú na **n-**airteagal_
-* _na hiriseoirí_ -> _ionadaí na **n-**iriseoirí_
+* _na hairteagail_ -> _ag dréachtú na **n**-airteagal_
+* _na hiriseoirí_ -> _ionadaí na **n**-iriseoirí_
 * _na hIodálaigh_ -> _ionadaithe na **n**Iodálach_
 * _na hIniúchóirí_ -> _obair na **n**Iniúchóirí_
 
