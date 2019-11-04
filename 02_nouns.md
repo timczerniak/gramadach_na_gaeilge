@@ -43,16 +43,6 @@ Glossary of abbreviations:
 * _gpl_ - genitive plural
 
 
-## The article before nouns in the nominative/accusative
-
-| first letter | Masculine                   | Feminine                                            |
-| ------------ | --------------------------- | --------------------------------------------------- |
-| vowel        | an t-easpag                 | an iris                                             |
-| consonant    | an bainisteoir              | an bhean                                            |
-| s            | an sagart                   | an tsiúr<br />(no t before sc-, sf-, sm-, sp-, st-) |
-| d or t       | an duine<br />an tionscadal | an deirfiúr<br />an tine                            |
-
-
 ## Gender
 
 These are general rules for figuring out the gender of a noun. These rules
@@ -82,6 +72,27 @@ of exceptions given below are just examples and are not exhaustive.
 | Words ending in _-eog_ or _-óg_                  | _spideog_, _bábóg_, _feadóg_             | _dallamullóg_                        |
 | Words ending in _-chan_                          | _athbheochan_, _beochan_                 | _meáchan_                            |
 | Countries, languages and rivers                  | _an Fhrainc_, _an Bhóinn_, _an Ghaeilge_ | _Sasana_, _an Béarla_                |
+
+
+## The article before nouns in the nominative/accusative
+
+Putting the article before nouns in the nominative/accusative causes initial
+mutations depending on the gender and initial letter.
+
+Note: feminine nouns that start with _s_ are given an initial _t_, but not if
+they start with _sc-_, _sf-_, _sm-_, _sp-_, or _st-_. This is because they'd be
+too hard to say!
+
+| Gender    | Starts with    | the + ns.       |
+| ----------| -------------- | --------------- |
+| Masculine | vowel          | an **t-**amhrán |
+|           | consonant      | an bord         |
+|           | **s**          | an sos          |
+|           | **d** or **t** | an duine        |
+| Feminine  | vowel          | an iris         |
+|           | consonant      | an b**h**ean    |
+|           | **s**          | an **t**sráid   |
+|           | **d** or **t** | an tine         |
 
 
 ## Plural meaning
@@ -138,7 +149,7 @@ A noun has a weak plural when:
 The nominative plural ends with a slender consonant, or by adding _-a_ to the
 nominative singular
 
-| ns          | npl              |
+| ns.         | npl.             |
 | ----------- | ---------------- |
 | ball        | ba**ill**        |
 | dualgas     | dualga**is**     |
@@ -152,7 +163,7 @@ nominative singular
 When a noun has a weak plural, the same form is used in the nominative singular
 and the genitive plural.
 
-| ns       | gpl                                                |
+| ns.      | gpl.                                               |
 | -------- | -------------------------------------------------- |
 | fear     | a lán fear (a lot of men)                          |
 | ball     | vótaí na mball (members votes)                     |
@@ -195,7 +206,8 @@ if the noun is feminine:
 * an mheánscoil  na meánscoileanna
 * an teach       na tithe
 
-A ‘h’ is put before initial vowels of plurals in the nominative/accusative case:
+A ‘h’ is put before initial vowels of plurals after _na_ in the
+nominative/accusative case:
 
 * **singular**  **plural**
 * an t-ógánach  na hógánaigh

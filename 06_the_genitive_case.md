@@ -11,121 +11,97 @@ before it, or before the article that comes before it:
 * words that indicate general quantity e.g. _a lán airgid_, _níos mó eolas_
 
 
-## The Singular Genitive Case: Initial Mutations
+## The form of nouns in the genitive case
 
-The changes that happen to the start of a noun in the genitive case are below.
+Below are some guidelines for forming the genitive. There are exceptions, and
+the dictionary will always give you the right form (with the abbreviation _gs_).
 
-**Masculine Nouns**
+### Masculine
 
-| Starts with...    | Nominative                                               | Genitive                                                                                   |
-| ----------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| a vowel           | iriseoir<br />an **t**-iriseoir                          | pá iriseora<br />pá an iriseora                                                            |
-| a consonant       | bainisteoir<br />an bainisteoir                          | carr bainisteora<br />carr an **bh**ainisteora                                             |
-| an **s**          | saoririseoir<br />an saoririseoir                        | post saoririseora<br />post an **ts**aoririseora                                           |
-| a **d** or **t**  | duine<br />an duine<br />taispeántas<br />an taispeántas | cearta duine<br />cearta an duine<br/>ag moladh taispeántais<br />ag moladh an taispeántas |
+Broad consonants at the end of masculine nouns are made slender.
 
-**Feminine Nouns**
-
-| Starts with...    | Nominative                                         | Genitive                                                                                          |
-| ----------------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| a vowel           | iris<br />an iris                                  | ainm irise<br />ainm **na** **h**irise                                                            |
-| a consonant       | bileog<br />an **bh**ileog                         | dath bileoige<br />dath **na** bileoige                                                           |
-| an **s**          | sráid<br />an **ts**ráid                           | ag bun sráide<br />ag bun **na** sráide                                                           |
-| a **d** or **t**  | dánlann<br />an dánlann<br />taithí<br />an taithí | oibrithe dánlainne<br />oibrithe **na** dánlainne<br/>de bharr taithí<br />de bharr **na** taithí |
-
-
-## The Singular Genitive Case: The End of the Noun
-
-In dictionaries, the genetive singular form of a noun is indicated by the
-abbreviation _gs_. Below are some guidelines for forming the genitive.
-
-
-### Masculine Nouns
-
-Broad consonants at the end of masculine nouns are made slender:
-
-* _an t-amhrán_ -> _deireadh an amhrá**in**_
+* _amhrán_ -> _amhrá**in**_
 
 The ending **-each** changes to **-igh** and **-ach** to **-aigh**:
 
-* _an cléireach_ -> _obair an chléir**igh**_
-* _an t-earrach_ -> _tús an earr**aigh**_
+* _cléireach_ -> _cléir**igh**_
+* _earrach_ -> _earr**aigh**_
 
 The ending **-eadh** changes to **-idh** and **-adh** to **-aidh**:
 
-* _an geimhreadh_ -> _ag deireadh an gheimhr**idh**_
-* _an cogadh_ -> _tar éis an chog**aidh**_
+* _geimhreadh_ -> _geimhr**idh**_
+* _cogadh_ -> _cog**aidh**_
 
 Some masculine nouns that end in broad consonants are given an **-a**:
 
-* _fíon_ -> _buidéal fíon**a**_
-* _snámh_ -> _linn snámh**a**_
+* _fíon_ -> _fíon**a**_
+* _snámh_ -> _snámh**a**_
 
-Nouns related to jobs that end in **-ir** are broadened and given **-a**:
+Occupations that end in **-ir** are broadened and given **-a**:
 
-* _fiaclóir_ -> _pá fiacl**óra**_
-* _an múinteoir_ -> _ceartúchán an mhúinteora_
+* _fiaclóir_ -> _fiacl**óra**_
+* _múinteoir_ -> _múinte**ora**_
 
 The ends of nouns that end with **-ín** or a vowel are not changed:
 
-* _an cailín_ -> _cairde an chailín_
-* _an bia_ -> _blas an bhia_
+* _cailín_ -> _cailín_
+* _bia_ -> _bia_
 
 
-### Feminine Nouns
+### Feminine
 
 Certain feminine nouns that end with a slender consonant are given **-e**:
 
-* _eaglais_ -> _doras eaglais**e**_
-* _an tseachtain_ -> _ag deireadh na seachtain**e**_
+* _eaglais_ -> _eaglais**e**_
+* _seachtain_ -> _seachtain**e**_
 
 For some feminine nouns, the last consonant is made slender and **-e** is added:
 
-* _an fhuinneog_ -> _in aice na fuinneo**ige**_
+* _fuinneog_ -> _fuinneo**ige**_
 
 The ending **-each** is changed to **-í** and **-ach** to **-aí**:
 
-* _an bhaintreach_ -> _pinsean na baintr**í**_
-* _an ghealach_ -> _solas na geal**aí**_
+* _baintreach_ -> _baintr**í**_
+* _gealach_ -> _geal**aí**_
 
 Multi-syllabic nouns that end with **-eacht**, **-acht**, **-íocht** or
 **-aíocht** are given **-a**:
 
-* _an ghluaiseacht_ -> _baill na gluaiseacht**a**_
-* _iarracht_ -> _ag déanamh iarracht**a**_
-* _an cháilíocht_ -> _ag fáil na cáilíocht**a**_
-* _an íocaíocht_ -> _ag lorg na híocaíocht**a**_
+* _gluaiseacht_ -> _gluaiseacht**a**_
+* _iarracht_ -> _iarracht**a**_
+* _cáilíocht_ -> _cáilíocht**a**_
+* _íocaíocht_ -> _íocaíocht**a**_
 
 For some mono-syllabic feminine nouns, the final consonant is broadened and
 **-ach** added:
 
-* _cáin_ -> _foirmeacha cán**ach**_
-* _traein_ -> _stáisiún traen**ach**_
-* _beoir_ -> _pionta beor**ach**_
+* _cáin_ -> _cán**ach**_
+* _traein_ -> _traen**ach**_
+* _beoir_ -> _beor**ach**_
 
 Some multi-syllabic feminine nouns are shortened, and **-each** or **-ach** is
 added:
 
-* _litir_ -> _clúdach litr**each**_
-* _an eochair_ -> _poll na heochr**ach**_
+* _litir_ -> _litr**each**_
+* _eochair_ -> _eochr**ach**_
 
 Some nouns that end with a vowel are unchanged:
 
-* _an trá_ -> _bóthar na trá_
-* _an íomhá_ -> _ag forbairt na híomhá_
+* _trá_ -> _trá_
+* _íomhá_ -> _íomhá_
 
 Other nouns that end with a vowel are given **-n**:
 
-* _an chomharsa_ -> _teach na comharsa**n**_
-* _an mhonarcha_ -> _geataí na monarcha**n**_
+* _comharsa_ -> _comharsa**n**_
+* _monarcha_ -> _monarcha**n**_
 
 
-## The Plural Genitive Case
+### Plural Nouns
 
 We saw in Chapter 2 that there are two types of plurals, weak and strong.
 
 
-### Weak Plurals
+#### Weak Plurals
 
 A noun has a weak plural when:
 
@@ -143,7 +119,7 @@ singular and the genitive plural:
 | bileog    | bileoga  | bileog    |
 
 
-### Strong Pluarls
+#### Strong Pluarls
 
 Every other noun has a strong plural. This means their plurals have the same
 form in every case:
@@ -156,7 +132,23 @@ form in every case:
 | tír        | tíortha       | tíortha       |
 
 
-## Urú
+## Initial Mutations and the article _an_/_na_
+
+### Indefinite nouns
+
+Indefinite nouns (i.e. nouns on their own with no article) in the genitive are
+given initial mutations similarly to adjectives:
+
+* After masculine nouns in the nominative singular, they are unchanged (e.g. _fear céile_)
+* After feminine nouns in the nominative singular, they are given a séimhiú (e.g. _bean chéile_)
+* After weak masculine plural nouns, they are given a séimhiú (e.g. _fir chéile_)
+* After masculine nouns that are in the genitive themselves, they are given a séimhiú (e.g. _teach an fhir chéile_)
+
+### Definite nouns with the article
+
+* Masculine singular nouns: séimhiú (and **t** before **s**)
+* Feminine singular nouns: **an** changes to **na**, noun unchanged (except **h** before vowels)
+* Plural nouns: always **na**, given urú
 
 There is an urú on a noun when the article **na** comes before it in the
 genitive case:
@@ -172,6 +164,38 @@ However, if the Vowel is a capitol letter, there is no hyphen:
 * _na hiriseoirí_ -> _ionadaí na **n**-iriseoirí_
 * _na hIodálaigh_ -> _ionadaithe na **n**Iodálach_
 * _na hIniúchóirí_ -> _obair na **n**Iniúchóirí_
+
+Here is a table of all the initial mutations and article changes. This is an
+extension of the table from chapter 2, and it includes the nominative with the
+article for comparison.
+
+It should be noted that the rules for indefinite nouns are not listed here.
+
+| Gender    | starts with    | ns.    | the + ns.       | the + npl.      | the + gs.       | the + gpl.      |
+| --------- | -------------- | ------ | --------------- | --------------- | --------------- | --------------- |
+| Masculine | vowel          | amhrán | an **t-**amhrán | na **h**amhráin | an amhráin      | na **n-**amhrán |
+|           | consonant      | bord   | an bord         | na boird        | an b**h**oird   | na **m**bord    |
+|           | **s**          | sos    | an sos          | na sosanna      | an sosa         | na sosanna      |
+|           | **d** or **t** | duine  | an duine        | na daoine       | an duine        | na **n**daoine  |
+| Feminine  | vowel          | iris   | an iris         | na hirisí       | **na h**irise   | na **n-**irisí  |
+|           | consonant      | bean   | an b**h**ean    | na mná          | **na** mná      | na **m**ban     |
+|           | **s**          | sráid  | an **t**sráid   | na sráideanna   | **na** sráide   | na sráideanna   |
+|           | **d** or **t** | tine   | an tine         | na tinnte       | **na** tine     | na **d**tinnte  |
+
+
+### Definite nouns with possessive pronouns
+
+These follow the same rules as in the nominative case, i.e.
+
+* mo/do/a(his): _mo c**h**upán_
+* a(her): _a cupán_
+* ár/bhur/a(their): _ár **g**cupán_
+
+
+### Proper nouns
+
+Most proper nouns are given séimhiú in the genitive. The exceptions are names of
+saints and non-irish names, which are are unchanged.
 
 
 ## Talking About Time Periods
@@ -214,7 +238,7 @@ or _go ceann_, the genitive case is not used. For example, it's
 _ar feadh mí**osa**_ (genitive), but it's _ar feadh trí mhí_ (no genitive).
 
 
-## Definite Nouns
+## Definite and Indefinite Nouns
 
 Definite nouns are:
 
