@@ -85,7 +85,7 @@ too hard to say!
 
 | Gender    | Starts with    | the + ns.       |
 | ----------| -------------- | --------------- |
-| Masculine | vowel          | an **t-**amhrán |
+| Masculine | vowel          | an **t**-amhrán |
 |           | consonant      | an bord         |
 |           | **s**          | an sos          |
 |           | **d** or **t** | an duine        |
