@@ -150,7 +150,7 @@ given initial mutations similarly to adjectives:
 * Feminine singular nouns: **an** changes to **na**, noun unchanged (except **h** before vowels)
 * Plural nouns: always **na**, given urú
 
-There is an urú on a noun when the article **na** comes before it in the
+There is an urú on a plural noun when the article **na** comes before it in the
 genitive case:
 
 * _na bileoga_ -> _ag seoladh na **m**bileog_
