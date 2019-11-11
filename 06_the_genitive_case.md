@@ -177,7 +177,7 @@ It should be noted that the rules for indefinite nouns are not listed here.
 |           | consonant      | bord   | an bord         | na boird        | an b**h**oird   | na **m**bord    |
 |           | **s**          | sos    | an sos          | na sosanna      | an sosa         | na sosanna      |
 |           | **d** or **t** | duine  | an duine        | na daoine       | an duine        | na **n**daoine  |
-| Feminine  | vowel          | iris   | an iris         | na hirisí       | **na h**irise   | na **n**-irisí  |
+| Feminine  | vowel          | iris   | an iris         | na **h**irisí   | **na h**irise   | na **n**-irisí  |
 |           | consonant      | bean   | an b**h**ean    | na mná          | **na** mná      | na **m**ban     |
 |           | **s**          | sráid  | an **t**sráid   | na sráideanna   | **na** sráide   | na sráideanna   |
 |           | **d** or **t** | tine   | an tine         | na tinnte       | **na** tine     | na **d**tinnte  |
