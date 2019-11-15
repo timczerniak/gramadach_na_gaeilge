@@ -2,6 +2,7 @@
 
 ## Contents
 
+0. [The Alphabet](00_the_alphabet.md)
 1. [Terminology](01_terminology.md)
 2. [Nouns](02_nouns.md)
 3. [Simple Prepositions](03_simple_prepositions.md)
