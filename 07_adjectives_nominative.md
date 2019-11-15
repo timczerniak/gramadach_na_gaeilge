@@ -1,4 +1,4 @@
-# Adjectives 1: Singular & Plural
+# Adjectives - The Nominative Case
 
 
 ## Adjectives With Singular Nouns
