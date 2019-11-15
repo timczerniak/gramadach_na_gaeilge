@@ -19,6 +19,22 @@ After a simple preposition & the article:
 | _ar an lá deireanach_ | _ar an oíche d**h**eireanach_ |
 | _ag an bhfear bocht_  | _ar an mbean b**h**ocht_      |
 
+In Ulster Irish, a séimhiú is applied to an adjective that follows a masculine
+noun that follows a simple preposition and the article.
+
+* _ar an lá **dh**eireanach_
+* _ag an fhear **bh**ocht_
+
+
+### D, N, T, L, S
+
+When a feminine noun ends with one of _d_, _n_, _t_, _l_, or _s_ and the
+adjective qualifying it also starts with one of _d_, _n_, _t_, _l_, or _s_, the
+adjective is given a séimhiú. This is known as the **DeNTaLS** rule.
+
+* _bialann **Sh**íneach_
+* _bean **dh**eas_
+
 
 ## Adjectives With Plural Nouns
 
@@ -36,7 +52,7 @@ Here are the rules for how to put most adjectives in the plural:
 | **-úil** -> **-úla**                     | _suimiúil_ | _suimi**úla**_ |
 | **-air** -> **-ra**                      | _deacair_  | _deac**ra**    |
 
-There some adjectives that lose a vowel or two in the plural, and might have
+There are some adjectives that lose a vowel or two in the plural, and might have
 consonants broadened or made slender to fit:
 
 | Singular    | Plural     |
@@ -84,10 +100,26 @@ adjective is in the plural form, and given a séimhiú:
 * _seacht mbuibéal g**h**lasa_
 
 
-## Nouns that finish with a slender consonant in the plural + certain nouns
+## Nouns that finish with a slender consonant in the plural + indefinite nouns
 
+Indefinite nouns that start with _b_, _c_, _g_, _m_ or _p_ are given a séimhiú
+after a plural noun that ends with a slender consonant.
 
-## summary section
+* _f**ir** **bh**eáir_ (barmen)
+* _bá**id** **ch**anála_ (canal boats)
+
+Indefinite nouns that start with _d_, _t_ or _s_ are not given a séimhiú after a
+plural noun that ends with a slender _d_, _n_, _t_, _l_ or _s_.
+
+* _bá**id** seoil_ (sailboats)
+* _eastá**it** tithíochta_ (housing estates)
+* _cuma**inn** trádála_ (trade associations)
+
+Nouns that start with _f_ are not given a séimhiú after a plural noun that ends
+with a slender consonant.
+
+* _comha**id** fuaime_ (sound files)
+* _beith**ígh** feirme_ (farm beasts)
 
 
 ## Adjectives with the Verb _Bí_
