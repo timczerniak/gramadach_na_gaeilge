@@ -15,22 +15,22 @@ make appearances occasionally in words that are borrowed from other languages
 None of these letters can be lenited or eclipsed (see below).
 
 
-## Broad (_Caol_) and Slender (_Leathan_)
+## Slender (_Caol_) and Broad (_Leathan_)
 
-The vowels are divided up into broad (_a_, _á_, _o_, _ó_, _u_, _ú_) and slender
-(_e_, _é_, _i_, _í_).
+The vowels are divided up into slender (_e_, _é_, _i_, _í_) and broad
+(_a_, _á_, _o_, _ó_, _u_, _ú_).
 
-When a consonant has a broad vowel beside it, it is called broad, and equally,
-when it has a slender vowel beside it, it is called slender.
+When a consonant has a slender vowel beside it, it is called a slender consonant.
+Equally, when a consonant has a broad vowel beside it, it is called a broad consonant.
 
 
 ### _"Caol le caol, leathan le leathan"_
 
-This phrase means 'broad with broad, slender with slender'. It is a general rule
-for spelling, and it means that if there is a broad vowel on one side of a
-consonant cluster, there must be a broad vowel on the other side. Equally, if
-there is a slender vowel on one side of a consonant cluster, there must be a
-slender vowel on the other side.
+This phrase means 'slender with slender, broad with broad'. It is a general rule
+for spelling, and it means that if there is a slender vowel on one side of a
+consonant cluster, there must be a slender vowel on the other side. Equally, if
+there is a broad vowel on one side of a consonant cluster, there must be a
+broad vowel on the other side.
 
 There are exceptions. Words made up of multiple other words joined together
 (_comhfhocail_) can break this rule if the two words start and end with
