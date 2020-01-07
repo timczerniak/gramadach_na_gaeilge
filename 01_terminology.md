@@ -44,7 +44,7 @@ _**Firinscneach**_ - Masculine
 
 _**Baininscneach**_ - Feminine
 
-_**Séimhiú**_ - Lenition
+_**Séimhiú**_ - Lenition (literally "softening")
 
 _**Urú**_ - Eclipsis
 
