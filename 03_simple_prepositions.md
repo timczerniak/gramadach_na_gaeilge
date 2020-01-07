@@ -75,7 +75,7 @@ _gan_:
 * _gan **ch**ead_
 * _gan **mh**úineadh_
 
-Starting consonants _d_, _f*_, _s_ and _t_ are not given a séimhiú after _gan_:
+Starting consonants _d_, _f_, _s_ and _t_ are not given a séimhiú after _gan_:
 
 * _gan sos_
 * _gan tuairisc_
