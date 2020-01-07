@@ -26,8 +26,8 @@ Equally, when a consonant has a broad vowel beside it, it is called a broad cons
 
 ### _"Caol le caol, leathan le leathan"_
 
-This phrase means 'slender with slender, broad with broad'. It is a general rule
-for spelling, and it means that if there is a slender vowel on one side of a
+This phrase means 'slender with slender, broad with broad'. It is a general
+spelling rule, and it means that if there is a slender vowel on one side of a
 consonant cluster, there must be a slender vowel on the other side. Equally, if
 there is a broad vowel on one side of a consonant cluster, there must be a
 broad vowel on the other side.
@@ -35,7 +35,7 @@ broad vowel on the other side.
 There are exceptions. Words made up of multiple other words joined together
 (_comhfhocail_) can break this rule if the two words start and end with
 different types of consonants. There are some other words that break the rule,
-but they are very rare.
+but they are rare.
 
 
 ## Initial Mutations
@@ -46,10 +46,10 @@ There are two types of initial mutation, lenition (_séimhiú_) and eclipsis
 
 ### Lenition / Séimhiú
 
-This is when a _h_ is added after the first letter of a word and the sound of
-the initial letter is aspirated. Only 9 of the 13 consonants can be lenited.
-We'll call these **lenitable** or **séimhiú-able** consonants. Vowels can't be
-lenited.
+_Séimhiú_ means "softening". This is when a _h_ is added after a letter and the
+sound of it is lenited (or aspirated, or softened). Only 9 of the 13 consonants
+can be lenited, which we'll call **lenitable** or **séimhiú-able**.
+Vowels can't be lenited.
 
 | Consonant | Lenited |
 | --------- | ------- |
@@ -70,11 +70,11 @@ lenited.
 
 ### Eclipsis / Urú
 
-This is when a letter (or two) is added before the first letter of a word. Each
-letter has a different letter that goes before it, and the sound of the initial
-letter is replaced (or 'eclipsed') by the added letter(s). Only 7 of the 13
-consonants can be eclipsed. We'll call these **eclipsable** or **urú-able**
-consonants. Vowels can not be eclipsed.
+_Urú_ means "eclipsis". This is when a letter (or two) is added before the first
+letter of a word. Each initial letter has a different letter that goes before it,
+and the sound of the initial letter is replaced (or 'eclipsed') by the added
+letter(s). Only 7 of the 13 consonants can be eclipsed. We'll call these
+**eclipsable** or **urú-able** consonants. Vowels can not be eclipsed.
 
 | Consonant | Eclipsed |
 | --------- | -------- |
@@ -95,10 +95,11 @@ consonants. Vowels can not be eclipsed.
 
 ### Other Mutations
 
-Sometimes words that start with vowels will be preceeded by either _h_ or _n-_.
-Often when a seimhiú is required it would be _h_ and when an urú is required it
-would be _n-_, but this is not universal, and it usually depends on the
-grammatical situation in question.
+Sometimes, when a séimhiú is required, words that start with vowels will be
+preceeded by a _h_. This depends on the grammatical situation in question.
+
+Sometimes, when an urú is required, words that start with vowels will be
+preceeded by a _n-_. Again, this depends on the grammatical situation in question.
 
 In certain circumstances, words that start with _s_ are preceeded by a _t_.
-Again, this depends on the grammatical situation in question.
+But yet again, this depends on the grammatical situation in question.
