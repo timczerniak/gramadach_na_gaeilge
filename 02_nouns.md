@@ -17,7 +17,7 @@ and it is used with verbal nouns also.
 
 ### Gairmeach (Vocative)
 
-Used to address people (a Sheán!)
+Used to address people, e.g. _a Sheán!_.
 
 
 ### Tabharthach (Dative)
@@ -76,12 +76,14 @@ of exceptions given below are just examples and are not exhaustive.
 
 ## The article before nouns in the nominative/accusative
 
-Putting the article before nouns in the nominative/accusative causes initial
-mutations depending on the gender and initial letter.
+Putting the singular article _an_ before nouns in the nominative/accusative
+causes initial mutations in 3 situations:
 
-Note: feminine nouns that start with _s_ are given an initial _t_, but not if
-they start with _sc-_, _sf-_, _sm-_, _sp-_, or _st-_. This is because they'd be
-too hard to say!
+* For masculine nouns starting with a vowel, a _t-_ is prepended.
+* Feminine nouns starting with a consonant (except d/t/s) are given a séimhiú.
+* For feminine nouns starting with an _s_, a _t_ is prepended, but not if they
+  start with _sc-_, _sf-_, _sm-_, _sp-_, or _st-_ (This is because they'd be
+  too hard to say).
 
 | Gender    | Starts with    | the + ns.       |
 | ----------| -------------- | --------------- |
@@ -128,13 +130,13 @@ if there isn’t a pair of (d, n, t, l, s) consonants at the connection point:
 * séimhú: _ainmfhocal_, _carrchlós_
 * no séimhú: _státseirphíseach_, _cúldoras_
 
-There is usually not a hyphen between parts of joint words. There is one when
+There is usually no hyphen between parts of joint words, but there is one when
 the letters are the same at the connection point:
 
 * _lámh-mhaisiú_
 * _droch-chaint_
 
-There is a hyphen when there are three parts in a joint word:
+There is also a hyphen when there are three parts in a joint word:
 
 * _sin-seanaithair_
 * _iar-bhunscoil_
@@ -199,19 +201,21 @@ dictionary, e.g.:
 
 ### Initial mutations of plurals
 
-The initial consonants of plural words are not given a séimhú after _na_, even
-if the noun is feminine:
+Plural nouns that start with a consonant are unchanged after _na_, no matter
+the gender:
 
-* **singular**   **plural**
-* an mheánscoil  na meánscoileanna
-* an teach       na tithe
+| singular      | plural            |
+| ------------- | ----------------- |
+| an mheánscoil | na meánscoileanna |
+| an teach      | na tithe          |
 
-A ‘h’ is put before initial vowels of plurals after _na_ in the
+Plural nouns that start with a vowel are given an initial _h_ after _na_ in the
 nominative/accusative case:
 
-* **singular**  **plural**
-* an t-ógánach  na hógánaigh
-* an t-ábhar    na hábhair
+| singular     | plural       |
+| ------------ | ------------ |
+| an t-ógánach | na hógánaigh |
+| an t-ábhar   | na hábhair   |
 
 
 ## Hyphens
@@ -242,72 +246,94 @@ exceptions. Dictionary entries always have the correct forms.
 **Group 1**: Masculine nouns that  end in a slender consonant in the nominative
 plural:
 
-* an t-ábhar     na hábhair
-* an bacach      na bacaigh
-* an sagart      na sagairt
+| singular   | plural     |
+| ---------- | ---------- |
+| an t-ábhar | na hábhair |
+| an bacach  | na bacaigh |
+| an sagart  | na sagairt |
 
 **Group 2**: Masculine nouns that end with _-a_ in the nominative plural:
 
-* an ceart       na cearta
-* an t-úll       na húlla
-* an fiach       na fiacha
+| singular | plural    |
+| -------- | --------- |
+| an ceart | na cearta |
+| an t-úll | na húlla  |
+| an fiach | na fiacha |
 
-**Group 3**: Masculine nouns that end with _-ta_ in all cases plural:
+**Group 3**: Masculine nouns that end with _-ta_ in every case plural:
 
-* an dán         na dánta
-* an lón         na lónta
-* an síol        na síolta
+| singular | plural    |
+| -------- | --------- |
+| an dán   | na dánta  |
+| an lón   | na lónta  |
+| an síol  | na síolta |
 
 **Group 4**: Masculine nouns that end with _-(a)í_ in every case plural:
 
-* an bealach     na bealaí
-* an t-éadach    na héadaí
-* an soitheach   na soithí
+| singular     | plural    |
+| ------------ | --------- |
+| an bealach   | na bealaí |
+| an t-éadach  | na héadaí |
+| an soitheach | na soithí |
 
 **Group 5:** Masculine nouns that end with _-anna_ in every case plural:
 
-* an bás         na básanna
-* an carr        na carranna
-* an leigheas    na leigheasanna
+| singular    | plural          |
+| ----------- | --------------- |
+| an bás      | na básanna      |
+| an carr     | na carranna     |
+| an leigheas | na leigheasanna |
 
 
 ### Second declension
 
 **Group 1**: Feminine nouns that end with _-a_ in the nominative plural:
 
-* an bhaintreach   na baintreacha
-* an chos          na cosa
-* an tslat         na slata
+| singular       | plural         |
+| -------------- | -------------- |
+| an bhaintreach | na baintreacha |
+| an chos        | na cosa        |
+| an tslat       | na slata       |
 
 **Group 2**: Feminine nouns that end with _-í_ in every case plural:
 
-* an abairt        na habairtí
-* an liathróid     na liathróidí
-* an tsochraid     na sochraidí
+| singular     | plural        |
+| ------------ | ------------- |
+| an abairt    | na habairtí   |
+| an liathróid | na liathróidí |
+| an tsochraid | na sochraidí  |
 
 **Group 3**: Feminine nouns that end with _-(e)anna_ in every case plural:
 
-* an aois          na haoiseanna
-* an fhuaim        na fuaimeanna
-* an fhadhb        na fadhbeanna
+| singular  | plural        |
+| --------- | ------------- |
+| an aois   | na haoiseanna |
+| an fhuaim | na fuaimeanna |
+| an fhadhb | na fadhbeanna |
 
 **Group 4**: Feminine nouns that end with _-(e)acha_ in every case plural:
 
-* an charraig      na charraigeacha
-* an iníon         na hiníonacha
-* an stoirm        na stoirmeach
+| singular    | plural           |
+| ----------- | ---------------- |
+| an charraig | na charraigeacha |
+| an iníon    | na hiníonacha    |
+| an stoirm   | na stoirmeach    |
 
 **Group 5**: Feminine nouns that end with _-ta_ in every case plural:
 
-* an bhuíon        na buíonta
-* an ghrian        na grianta
-* an tonn          na tonnta
+| singular  | plural     |
+| --------- | ---------- |
+| an bhuíon | na buíonta |
+| an ghrian | na grianta |
+| an tonn   | na tonnta  |
 
 **Group 6**: Feminine nouns that end with _-te_ in every case plural:
 
-* an aill          na haillte
-* an choill        na coillte
-* an linn          na linnte
+| singular  | plural     |
+| --------- | ---------- |
+| an aill   | na haillte |
+| an choill | na coillte |
+| an linn   | na linnte  |
 
 
 ### Third declension
@@ -316,23 +342,29 @@ plural:
 _-eoir_, _-óir_ or _-úir_ in the singular, and that have _-í_ in every case
 plural. They are all careers:
 
-* an búistéir       na búistéirí
-* an ceoltóir       na ceoltóirí
-* an dochtúir       na dochtúirí
+| singular    | plural       |
+| ----------- | ------------ |
+| an búistéir | na búistéirí |
+| an ceoltóir | na ceoltóirí |
+| an dochtúir | na dochtúirí |
 
 **Group 2**: Masculine and feminine nouns that end with _-(a)í_ in every case
 plural:
 
-* an aidiacht       na haidiachtaí
-* an ghluaiseacht   na gluaiseachtaí
-* an íobairt        na híobairtí
+| singular        | plural           |
+| --------------- | ---------------- |
+| an aidiacht     | na haidiachtaí   |
+| an ghluaiseacht | na gluaiseachtaí |
+| an íobairt      | na híobairtí     |
 
 **Group 3**: Masculine and feminine nouns that end with _-anna_ in every case
 plural:
 
-* an dath           na dathanna
-* an leacht         na leachtanna
-* an sos            na sosanna
+| singular  | plural        |
+| --------- | ------------- |
+| an dath   | na dathanna   |
+| an leacht | na leachtanna |
+| an sos    | na sosanna    |
 
 
 ### Fourth declension
@@ -340,51 +372,65 @@ plural:
 **Group 1**: Masculine nouns that end with _-ín_ in the singular and in _-í_ in
 every case plural:
 
-* an cailín    na cailíní
-* an féirín    na féiríní
-* an toitín    na toitíní
+| singular  | plural     |
+| --------- | ---------- |
+| an cailín | na cailíní |
+| an féirín | na féiríní |
+| an toitín | na toitíní |
 
 **Group 2**: Nouns that are masculine for the most part, that end with _-a_ in
 the singular and end with _-í_ in every case plural:
 
-* an bata      na bataí
-* an t-earra   na hearraí
-* an siopa     na siopaí
+| singular   | plural     |
+| ---------- | ---------- |
+| an bata    | na bataí   |
+| an t-earra | na hearraí |
+| an siopa   | na siopaí  |
 
 **Group 3**: Masculine and feminine nouns that end with _-e_ in the singular and
 end with _-í_ in every case plural:
 
-* an béile       na béilí
-* an t-oráiste   na horáistí
-* an páiste      na páistí
+| singular     | plural      |
+| ------------ | ----------- |
+| an béile     | na béilí    |
+| an t-oráiste | na horáistí |
+| an páiste    | na páistí   |
 
 **Group 4**: Masculine and feminine nouns that end with _-e_ in the singular and
 end with _-te_ in every case plural:
 
-* an baile       na bailte
-* an fhéile      na féilte
-* an tine        na tinte
+| singular  | plural    |
+| --------- | --------- |
+| an baile  | na bailte |
+| an fhéile | na féilte |
+| an tine   | na tinte  |
 
 **Group 5**: Masculine nouns that end with _-(a)í_ in the singular and end with
 _-(a)ithe_ in every case plural:
 
-* an t-ainmhí    na hainmhithe
-* an gadaí       na gataithe
-* an t-oibrí     na hoibrithe
+| singular    | plural        |
+| ----------- | ------------- |
+| an t-ainmhí | na hainmhithe |
+| an gadaí    | na gataithe   |
+| an t-oibrí  | na hoibrithe  |
 
 **Group 6**: Masculine and feminine nouns that end with a vowel in the singular
 and end with _-nna_ in every case plural:
 
-* an brú         na brúnna
-* an cú          na cúnna
-* an glao        na glaonna
+| singular | plural     |
+| -------- | ---------- |
+| an brú   | na brúnna  |
+| an cú    | na cúnna   |
+| an glao  | na glaonna |
 
 **Group 7**: Masculine and feminine nouns that end with _-(e)anna_ in every case
 plural:
 
-* an bus         na busanna
-* an pas         na pasanna
-* an seic        na seiceanna
+| singular | plural       |
+| -------- | ------------ |
+| an bus   | na busanna   |
+| an pas   | na pasanna   |
+| an seic  | na seiceanna |
 
 
 ### Fifth declension
@@ -392,16 +438,20 @@ plural:
 **Group 1**: Feminine nouns that end with a slender consonant in the singular.
 The last consonant is broadened and _-acha_ added for every case plural:
 
-* an riail      na rialacha
-* an cháin      na cánacha
-* an treoir     na treoracha
+| singular  | plural       |
+| --------- | ------------ |
+| an riail  | na rialacha  |
+| an cháin  | na cánacha   |
+| an treoir | na treoracha |
 
 **Group 2**: Feminine nouns that are shortened and _-(e)acha_ added in every
 case plural:
 
-* an chathair   na cathracha
-* an eochair    na heochracha
-* an uimhir     na huimhreacha
+| singular    | plural         |
+| ----------- | -------------- |
+| an chathair | na cathracha   |
+| an eochair  | na heochracha  |
+| an uimhir   | na huimhreacha |
 
 
 ### Irregular nouns
