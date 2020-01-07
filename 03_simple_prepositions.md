@@ -101,8 +101,8 @@ A séimhiu follows _idir_ when there's a list involved:
 
 * _Bhí idir **bh**uachaillí agus **ch**ailíní i láthair._
 
-A séimhiú does not follow _idir_ when there's a noun similar to "eatarthu", or
-if space or time are involved:
+A séimhiú does not follow _idir_ when there's a noun describing a group, or if
+space or time are involved:
 
 * _argóint idir beirt pholaiteoirí_
 * _idir Baile Átha Cliath agus Corcaigh_
@@ -111,7 +111,7 @@ if space or time are involved:
 A séimhiú is not applied to a noun that comes after _agus_ (or _is_) if it
 starts with a _d_, _s_ or _t_:
 
-* _idir **sh**úgradh is dáiríre_
+* _idir **sh**úgradh agus dáiríre_
 * _idir **ch**léir is tuath_
 
 
