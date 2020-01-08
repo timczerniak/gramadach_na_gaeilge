@@ -11,6 +11,7 @@
 7. [Adjectives - Nominative](07_adjectives_nominative.md)
 10. [Verbs - An Modh Ordaitheach](10_verbs_an_modh_ordaitheach.md)
 11. [Verbs - An Aimsir Chaite](11_verbs_an_aimsir_chaite.md)
+12. [Basic numbers](12_basic_numbers.md)
 13. [Verbs - An Aimsir Láithreach](13_verbs_an_aimsir_láithreach.md)
 14. [Verbs - An Aimsir Fháistineach](14_verbs_an_aimsir_fháistineach.md)
 21. [Verbs - An Chopail](21_verbs_an_chopail.md)
