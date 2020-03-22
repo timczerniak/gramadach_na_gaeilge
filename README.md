@@ -15,4 +15,5 @@
 13. [Verbs - An Aimsir Láithreach](13_verbs_an_aimsir_láithreach.md)
 14. [Verbs - An Aimsir Fháistineach](14_verbs_an_aimsir_fháistineach.md)
 21. [Verbs - An Chopail](21_verbs_an_chopail.md)
+22. [Verbs - An Modh Coinníollach](22_verbs_an_modh_coinníollach.md)
 24. [Verbal Adjectives & Verbal Nouns](24_verbal_adjectives_and_verbal_nouns.md)
