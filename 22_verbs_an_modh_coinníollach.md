@@ -1,16 +1,7 @@
 # Verbs - An Modh Coinníollach
 
 
-The _Modh Coinníollach_ is the Conditional Tense (or 'mood').
-
-It is formed as follows:
-* The start of the verb is given a séimhiú in the positive and negative forms,
-  and _d'_ for vowels or _fh_.
-* The start is given an urú in the question and dá/mura forms
-* The stem is generally changed similarly to the future tense, and then the
-  endings are added. This is different depending on the conjugation and
-  slender/broad.
-  
+_An Modh Coinníollach_ is the Conditional Tense (I would go, I would do etc.)
 
 
 ## Regular Verbs
@@ -89,6 +80,67 @@ Other polysyllabic verbs
 | d'fhoghlaim**eoidís**     | d'fhreastal**óidís**     |
 
 
+## Irregular Verbs
+
+|              | abair              | beir             | clois                |
+| ------------ | ------------------ | ---------------- | -------------------- |
+|              | déarfainn          | bhéarfainn       | chloisfinn           |
+|              | déarfá             | bhéarfá          | chloisfeá            |
+|              | déarfadh sé/sí     | bhéarfadh sé/sí  | chloisfeadh sé/sí    |
+|              | déarfaimis         | bhéarfaimis      | chloisfimis          |
+|              | déarfadh sibh      | bhéarfadh sibh   | chloisfeadh sibh     |
+|              | déarfaidís         | bhéarfidís       | chloisfidís          |
+| **negative** | ní dhéarfadh       | ní bhéarfadh     | ní chloisfeadh       |
+| **question** | an/nach ndéarfadh? | an/nach mbéarfá? | an/nach gcloisfeadh? |
+| **if**       | dá/mura ndéarfadh  | dá/mura mbéarfá  | dá/mura gcloisfeadh  |
+
+|              | déan               | faigh                 | faigh (negative)      |
+| ------------ | ------------------ | --------------------- | --------------------- |
+|              | dhéanfainn         | gheobhainn            | ní bhfaighfainn       |
+|              | dhéanfá            | gheofá                | ní bhfaighfeá         |
+|              | dhéanfadh sé/sí    | gheobhadh sé/sí       | ní bhfaighfeadh sé/sí |
+|              | dhéanfaimis        | gheobhaimis           | ní bhfaighfaimis      |
+|              | dhéanfadh sibh     | gheobhadh sibh        | ní bhfaighfeadh sibh  |
+|              | dhéanfaidís        | gheobhaidís           | ní bhfaighfaidís      |
+| **negative** | ní dhéanfadh       | (next column)         |                       |
+| **question** | an/nach ndéanfadh? | an/nach bhfaighfeadh? |                       |
+| **if**       | dá/mura ndéanfadh  | dá/mura bhfaighfeadh  |                       |
+
+|              | feic                 | ith                | tabhair              |
+| ------------ | -------------------- | ------------------ | -------------------- |
+|              | d'fheicfinn          | d'íosfainn         | thabharfainn         |
+|              | d'fheicfeá           | d'íosfá            | thabharfá            |
+|              | d'fheicfeadh sé/sí   | d'íosfadh sé/sí    | thabharfadh sé/sí    |
+|              | d'fheicfimis         | d'íosfaimis        | thabharfaimis        |
+|              | d'fheicfeadh sibh    | d'íosfadh sibh     | thabharfadh sibh     |
+|              | d'fheicfidís         | d'íosfaidís        | thabharfaidís        |
+| **negative** | ní fheicfeadh        | ní íosfadh         | ní thabharfadh       |
+| **question** | an/nach bhfeicfeadh? | an/nach n-íosfadh? | an/nach dtabharfadh? |
+| **if**       | dá/mura bhfeicfeadh  | dá/mura n-íosfadh  | dá/mura dtabharfadh  |
+
+|              | tar                | téigh            | bí              |
+| ------------ | ------------------ | ---------------- | --------------- |
+|              | thiocfainn         | rachainn         | bheinn          |
+|              | thiocfá            | rachfá           | bheifeá         |
+|              | thiocfadh sé/sí    | rachadh sé/sí    | bheadh sé/sí    |
+|              | thiocfaimis        | rachaimis        | bheimis         |
+|              | thiocfadh sibh     | rachadh sibh     | bheadh sibh     |
+|              | thiocfaidís        | rachaidís        | bheidís         |
+| **negative** | ní thiocfadh       | ní rachadh       | ní bheadh       |
+| **question** | an/nach dtiocfadh? | an/nach rachadh? | an/nach mbeadh? |
+| **if**       | dá/mura dtiocfadh  | dá/mura rachadh  | dá/mura mbeadh  |
+
+
+## First Person Plural
+
+There is a choice in the first person plural between using the _-imis_ form
+and using the _sé_/_sí_/_sibh_ form with _muid_:
+
+* _D'íosfaimis_ / _D'íosfadh muid_
+* _D'fhreastalóimis_ / _D'fhreastalódh muid_
+* _Bheimis_ / _Bheadh muid_
+
+
 ## _Go_, _Dá_ & _Mura_
 
 All of these words are followed by an urú, for both consonants and vowels.
@@ -120,67 +172,6 @@ form or the first-person singular form:
 * A: _Rachadh._ / _Ní rachadh._
 * Q: _An rachfá amach san oíche amárach dá mbeadh an t-airgead agat?_
 * A: _Rachadh._ / _Ní Rachadh._ / _Rachainn._ / _Ní rachainn._
-
-
-## Irregular Verbs
-
-|              | abair            | beir             | clois              |
-| ------------ | ---------------- | ---------------- | ------------------ |
-|              | déarfainn        | bhéarfainn       | chloisfinn         |
-|              | déarfá           | bhéarfá          | chloisfeá          |
-|              | déarfadh sé/sí   | bhéarfadh sé/sí  | chloisfeadh sé/sí  |
-|              | déarfaimis       | bhéarfaimis      | chloisfimis        |
-|              | déarfadh sibh    | bhéarfadh sibh   | chloisfeadh sibh   |
-|              | déarfaidís       | bhéarfidís       | chloisfidís        |
-| **negative** | ní dhéarfainn    | ní bhéarfainn    | ní chloisfinn      |
-| **question** | an/nach ndéarfá? | an/nach mbéarfá? | an/nach gcloisfeá? |
-| **if**       | dá/mura ndéarfá  | dá/mura mbéarfá  | dá/mura gcloisfeá  |
-
-|              | déan             | faigh               | faigh (negative)      |
-| ------------ | ---------------- | ------------------- | --------------------- |
-|              | dhéanfainn       | gheobhainn          | ní bhfaighfainn       |
-|              | dhéanfá          | gheofá              | ní bhfaighfeá         |
-|              | dhéanfadh sé/sí  | gheobhadh sé/sí     | ní bhfaighfeadh sé/sí |
-|              | dhéanfaimis      | gheobhaimis         | ní bhfaighfaimis      |
-|              | dhéanfadh sibh   | gheobhadh sibh      | ní bhfaighfeadh sibh  |
-|              | dhéanfaidís      | gheobhaidís         | ní bhfaighfaidís      |
-| **negative** | ní dhéanfainn    | (next column)       |                       |
-| **question** | an/nach ndéanfá? | an/nach bhfaighfeá? |                       |
-| **if**       | dá/mura ndéanfá  | dá/mura bhfaighfeá  |                       |
-
-|              | feic               | ith              | tabhair            |
-| ------------ | ------------------ | ---------------- | ------------------ |
-|              | d'fheicfinn        | d'íosfainn       | thabharfainn       |
-|              | d'fheicfeá         | d'íosfá          | thabharfá          |
-|              | d'fheicfeadh sé/sí | d'íosfadh sé/sí  | thabharfadh sé/sí  |
-|              | d'fheicfimis       | d'íosfaimis      | thabharfaimis      |
-|              | d'fheicfeadh sibh  | d'íosfadh sibh   | thabharfadh sibh   |
-|              | d'fheicfidís       | d'íosfaidís      | thabharfaidís      |
-| **negative** | ní fheicfinn       | ní íosfainn      | ní thabharfainn    |
-| **question** | an/nach bhfeicfeá? | an/nach n-íosfá? | an/nach dtabharfá? |
-| **if**       | dá/mura bhfeicfeá  | dá/mura n-íosfá  | dá/mura dtabharfá  |
-
-|              | tar              | téigh           | bí               |
-| ------------ | ---------------- | --------------- | ---------------- |
-|              | thiocfainn       | rachainn        | bheinn           |
-|              | thiocfá          | rachfá          | bheifeá          |
-|              | thiocfadh sé/sí  | rachadh sé/sí   | bheadh sé/sí     |
-|              | thiocfaimis      | rachaimis       | bheimis          |
-|              | thiocfadh sibh   | rachadh sibh    | bheadh sibh      |
-|              | thiocfaidís      | rachaidís       | bheidís          |
-| **negative** | ní thiocfainn    | ní rachainn     | ní bheinn        |
-| **question** | an/nach dtiocfá? | an/nach rachfá? | an/nach mbéifeá? |
-| **if**       | dá/mura dtiocfá  | dá/mura rachfá  | dá/mura mbeifeá  |
-
-
-## First Person Plural
-
-There is a choice in the first person plural between using the _-imis_ form
-and using the _sé_/_sí_/_sibh_ form with _muid_:
-
-* _D'íosfaimis_ / _D'íosfadh muid_
-* _D'fhreastalóimis_ / _D'fhreastalódh muid_
-* _Bheimis_ / _Bheadh muid_
 
 
 ## _Má_ & _Mura_
