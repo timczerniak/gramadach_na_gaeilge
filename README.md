@@ -13,6 +13,7 @@
 11. [Verbs - An Aimsir Chaite](11_verbs_an_aimsir_chaite.md)
 12. [Basic numbers](12_basic_numbers.md)
 13. [Verbs - An Aimsir Láithreach](13_verbs_an_aimsir_láithreach.md)
+15. [Location, Movement & Time](15_location_movement_and_time.md)
 18. [Verbs - An Aimsir Fháistineach](18_verbs_an_aimsir_fháistineach.md)
 21. [Verbs - An Chopail](21_verbs_an_chopail.md)
 22. [Verbs - An Modh Coinníollach](22_verbs_an_modh_coinníollach.md)
