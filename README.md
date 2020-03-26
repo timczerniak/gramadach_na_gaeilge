@@ -9,6 +9,7 @@
 4. [Simple Prepositions with the Article](04_simple_prepositions_with_the_article.md)
 6. [The Genitive Case](06_the_genitive_case.md)
 7. [Adjectives - Nominative](07_adjectives_nominative.md)
+9. [Adjectives - Comparisons](09_adjectives_comparisons.md)
 10. [Verbs - An Modh Ordaitheach](10_verbs_an_modh_ordaitheach.md)
 11. [Verbs - An Aimsir Chaite](11_verbs_an_aimsir_chaite.md)
 12. [Basic numbers](12_basic_numbers.md)
