@@ -15,6 +15,8 @@ In this chapter, we'll discuss _maoluimhreacha_ and _bunuimhreacha_.
 
 These are numbers that are used for counting, but don't qualify a noun.
 
+|  # | Words        |  # | Words             |
+| -- | ------------ | -- | ----------------- |
 |  0 | _náid_       |    |                   |
 |  1 | _a haon_     | 11 | _a haon déag_     |
 |  2 | _a dó_       | 12 | _a dó **dh**éag_  |
@@ -29,6 +31,8 @@ These are numbers that are used for counting, but don't qualify a noun.
 
 After 20, this is the system:
 
+|   # | Words                   |
+| --- | ----------------------- |
 |  21 | _fiche a haon_          |
 |  22 | _fiche a dó_            |
 |  33 | _tríocha a trí_         |
@@ -47,6 +51,8 @@ After 20, this is the system:
 
 ## _Bunuimhreacha_
 
+|  # | Words                      |  # | Words                        |
+| -- | -------------------------- | -- | ---------------------------- |
 |  1 | _aon c**h**athaoir amháin_ | 11 | _aon c**h**athaoir déag      |
 |  2 | _dhá c**h**athaoir_        | 12 | _dhá c**h**athaoir déag_     |
 |  3 | _trí c**h**athaoir_        | 13 | _trí c**h**athaoir déag_     |
