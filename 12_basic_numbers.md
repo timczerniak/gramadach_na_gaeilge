@@ -98,7 +98,7 @@ Use _dhá_ and _ceithre_ before nouns instead of _dó_ and _ceathair_.
 Don't put an urú before an **s** (it's not right to put a **t** before an **s**
 after numbers) e.g. _ocht siopa_.
 
-Nonus don't change when they follow a number that is divisible by 10, like
+Nouns don't change when they follow a number that is divisible by 10, like
 _fiche_, _céad_, _míle_, _milliún_ etc. 10 itself however does cause an urú as
 mentioned before.
 
