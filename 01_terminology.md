@@ -24,7 +24,7 @@ _**Forainm réamhfhoclach**_ - Prepositional pronoun (_orm_, _aige_, etc.)
 
 _**Guta**_ - Vowel
 
-_**Consain**_ - Consonant
+_**Consan**_ - Consonant
 
 _**Tuiseal**_ - Case
 

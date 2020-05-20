@@ -22,8 +22,8 @@ Used to address people, e.g. _a Sheán!_.
 
 ### Tabharthach (Dative)
 
-When a noun follows a simple preposition and the article (ar an, ag an, sa, etc.)
-Something about the first consonant before the end of the word changing???
+When a noun follows a simple preposition and the article (_ar an_, _ag an_,
+_sa_, etc.)
 
 
 ## Looking up nouns in the dictionary
@@ -103,7 +103,7 @@ Sometimes the singular form is used for a plural meaning:
 
 * after basic numbers: _cúig shiopa; sé theach tábhairne_
 * after the word _cúpla_: _cúpla duine; cúpla punt_
-* after _cá/cé mhéad_: _cá mhéad dunne; cé mhéad pesant_
+* after _cá/cé mhéad_: _cá mhéad duine; cé mhéad peann_
 
 
 ## Joint words (Comhfhocail)
@@ -243,7 +243,7 @@ exceptions. Dictionary entries always have the correct forms.
 
 ### First declension
 
-**Group 1**: Masculine nouns that  end in a slender consonant in the nominative
+**Group 1**: Masculine nouns that end in a slender consonant in the nominative
 plural:
 
 | singular   | plural     |
