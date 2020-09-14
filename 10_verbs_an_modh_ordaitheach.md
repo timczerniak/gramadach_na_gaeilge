@@ -1,11 +1,11 @@
 # Verbs - An Modh Ordaitheach
 
 
-_An Modh Ordaitheach_ is the Subjunctive, i.e. what you use to give an order
+_An Modh Ordaitheach_ is the Imperative, i.e. what you use to give an order
 (Go!, Do!, etc).
 
 The root of the verb is what you find in a dictionary. All forms of a verb come
-from the root. The Subjunctive has two forms, second person singular, which is
+from the root. The Imperative has two forms, second person singular, which is
 always just the same as the Root, and second person plural, which is formed
 depending on the verb conjugation.
 
@@ -102,19 +102,19 @@ This section seems out of place, find a better place for it.
 
 ## Irregular verbs
 
-| First person singular  | First person plural |
-| ---------------------- | ------------------- |
-| abair                  | abraigí             |
-| beir                   | beirigí             |
-| bí                     | bígí                |
-| clois (no subjunctive) | ----                |
-| déan                   | déanaigí            |
-| faigh                  | faighigí            |
-| feic                   | feicigí             |
-| ith                    | ithigí              |
-| tabhair                | tugaigí             |
-| tar                    | tagaigí             |
-| téigh                  | téigí               |
+| First person singular | First person plural |
+| --------------------- | ------------------- |
+| abair                 | abraigí             |
+| beir                  | beirigí             |
+| bí                    | bígí                |
+| clois (no imperative) | ----                |
+| déan                  | déanaigí            |
+| faigh                 | faighigí            |
+| feic                  | feicigí             |
+| ith                   | ithigí              |
+| tabhair               | tugaigí             |
+| tar                   | tagaigí             |
+| téigh                 | téigí               |
 
 
 ## Personal pronouns
