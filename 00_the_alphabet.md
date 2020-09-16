@@ -4,7 +4,7 @@
 Irish has a 23 letter alphabet. It has 18 of the 26 letters of the English
 alphabet, plus 5 long (_fada_) vowels.
 
-The 10 vowels are _a_, _á_, _e_, _é_, _i_, _í_, _o_, _ó_, _u_ & _ú_. &#8594; blah
+The 10 vowels are _a_, _á_, _e_, _é_, _i_, _í_, _o_, _ó_, _u_ & _ú_.
 
 The 13 consonants are _b_, _c_, _d_, _f_, _g_, _h_, _l_, _m_, _n_, _p_, _r_,
 _s_ & _t_.
