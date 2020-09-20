@@ -75,7 +75,7 @@ Other Polysyllabic verbs:
 |               | mé/tú/sé/sí/sibh/siad | muid              |
 | ------------- | --------------------- | ----------------- |
 | **foghlaim**  | d’fhoghlaim mé        | d’fhoghlaimíomar  |
-| **freastail** | d’fhreastail mé       | d’fhreastailíomar |
+| **freastail** | d’fhreastail mé       | d’fhreastalaíomar |
 
 
 ### Gur
