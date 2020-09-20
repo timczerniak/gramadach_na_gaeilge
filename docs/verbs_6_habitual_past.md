@@ -1,7 +1,9 @@
 # Verbs: Habitual Past Tense
 
 
-_An Aimsir Ghnáthchaite_ is the habitual past tense (I used to go, I used to do etc.)
+The Habitual Past tense, also called the Imperfect tense, or
+_An Aimsir Ghnáthchaite_, is used for a recurring action in the past (I used to
+go, I used to do etc.).
 
 
 ## Regular Verbs

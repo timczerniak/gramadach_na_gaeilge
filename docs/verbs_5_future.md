@@ -93,12 +93,12 @@ For dependent forms use _go_, and add an urú to the verb or _n-_ for vowels:
 
 ## Irregular Verbs
 
-6 of the 11 irregular verbs have irregular forms in the future tense.
+7 of the 11 irregular verbs have irregular forms in the future tense.
 
 |           | mé/tú/sé/etc.  | muid         | Neg             | Other                               |
 | --------- | -------------- | ------------ | --------------- | ----------------------------------- |
 | **abair** | déarfaidh mé   | déarfaimid   | ní déarfaidh    | an/nach/go ndéarfaidh               |
-| beir      | béarfaidh mé   | béarfaimid   | ní bhéarfaidh   | an/nach/go mbéarfaidh               |
+| **beir**  | béarfaidh mé   | béarfaimid   | ní bhéarfaidh   | an/nach/go mbéarfaidh               |
 | **bí**    | beidh mé       | béimid       | ní bhéidh       | an/nach/go mbéidh                   |
 | clois     | cloisfidh mé   | cloisfimid   | ní chloisfidh   | an/nach/go gcloisfidh               |
 | déan      | déanfaidh mé   | déanfaimid   | ní dhéanfaidh   | an/nach/go ndéanfaidh               |
