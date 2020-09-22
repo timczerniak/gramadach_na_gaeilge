@@ -3,10 +3,12 @@
 
 The imperative is the command-form of a verb. That is, you use it when giving an
 order ("Go there!", "Do that!", etc.). The Irish for the Imperative "mood" is
-_An Modh Ordaitheach_.
+_An Modh Ordaitheach_ (from _ordaigh_ which means 'order')
 
-There are two forms of the imperative. One form used when talking to a single
-person, and one form used when talking to multiple people.
+There are two forms of the imperative commonly used. One form is used when
+commanding a single person, and another form is used when commanding multiple
+people. There are other forms, but they are less frequently used (I may add them
+here later).
 
 
 ## Talking to a single person
@@ -27,7 +29,6 @@ singular form.
 
 * _bris_ &#8594; _brisigí_
 * _tóg_ &#8594; _tógaigí_
-* _
 
 If the verb ends in _-áil_ or _-áin_, remove the _i_ before the l or n, and add
 _-aigí_.
@@ -61,19 +62,27 @@ last vowel-cluster and add either _-ígí_ or _-aígí_, according to broad/slen
 Put _ná_ in front of the verb. Put a _h_ at the start of the verb if it starts
 with a vowel.
 
-* _Ná bris é!_
-* _Ná habair liom go bhfuil sé ar ais_
-* _Ná himrígí peil ar an bpríomhbhóthar_
+* _Ná bris é!_ (Don't break it)
+* _Ná habair liom go bhfuil sé ar ais_ (Don't say to me that he is back)
+* _Ná himrígí peil ar an bpríomhbhóthar_ (Don't play football on the main road)
 
 
 ## Irregular verbs
 
-There are 11 irregular verbs. Only 3 of them have irregular forms in the
+Of the 11 irregular verbs, only 3 of them have irregular forms in the
 second-person plural imperative:
 
-* _bí_ &#8594; _bígí_
-* _tabhair_ &#8594; _tugaigí_
-* _tar_ &#8594; _tagaigí_
+* _abair_ &#8594; _abraigí_
+* _beir_ &#8594; _beirigí_
+* _**bí**_ &#8594; _**bígí**_
+* _clois_ &#8594; _cloisigí_
+* _déan_ &#8594; _déanaigí_
+* _faigh_ &#8594; _faighigí_
+* _feic_ &#8594; _feicigí_
+* _ith_ &#8594; _ithigí_
+* _**tabhair**_ &#8594; _**tugaigí**_
+* _**tar**_ &#8594; _**tagaigí**_
+* _téigh_ &#8594; _téigí_
 
 
 ----
