@@ -19,3 +19,7 @@ This group contains all other polysyllabic verbs:
 
 * Many of them end with _-igh_ like _ceannaigh_ and _bailigh_
 * Others end with _-il_, _-ir_ and _-is_, like _ceangail_, _imir_ and _inis_
+
+
+----
+[Back to Index](../index.md)

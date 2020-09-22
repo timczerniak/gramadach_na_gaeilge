@@ -165,3 +165,7 @@ Both take an urú or _n-_ for vowels:
 It's worth noting that the conditional tense is used for both parts of the
 Irish sentences above, whereas in English, the verb that follows 'if' would be
 in the subjunctive (e.g. If I were a doctor).
+
+
+----
+[Back to Index](../index.md)

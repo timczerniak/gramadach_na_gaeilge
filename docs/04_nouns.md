@@ -126,5 +126,6 @@ From this listing we can see that, for _súil_:
 * The genitive singular and the nominative plural forms are both _súile_.
 * The genative plural form is _súl_.
 
+
 ----
-Next, [Nouns &#8594;](04_nouns.md)
+[Back to Index](index.md)

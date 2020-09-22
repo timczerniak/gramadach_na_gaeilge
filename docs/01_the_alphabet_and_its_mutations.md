@@ -106,4 +106,4 @@ Yet again, this depends on the grammatical situation in question.
 
 
 ----
-Next, [parts of speech &#8594;](02_parts_of_speech.md)
+[Back to Index](index.md)

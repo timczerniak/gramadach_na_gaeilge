@@ -184,3 +184,7 @@ The end of the verb is similar to the conditional (_modh coinníollach_) in the 
 | d'ólfá         | d'óltá       | d'ólfaidís       | d'ólaidís      |
 | léifeá         | léiteá       | léifidís         | léidís         |
 | cheannófá      | cheannaíteá  | cheannóidís      | cheannaídís    |
+
+
+----
+[Back to Index](../index.md)

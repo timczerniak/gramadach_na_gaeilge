@@ -74,3 +74,7 @@ second-person plural imperative:
 * _bí_ &#8594; _bígí_
 * _tabhair_ &#8594; _tugaigí_
 * _tar_ &#8594; _tagaigí_
+
+
+----
+[Back to Index](../index.md)

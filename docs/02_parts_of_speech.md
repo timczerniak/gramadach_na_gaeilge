@@ -37,4 +37,4 @@ word for _article_.
 
 
 ----
-Next, [cases &#8594;](03_cases.md)
+[Back to Index](index.md)

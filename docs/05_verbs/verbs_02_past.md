@@ -123,3 +123,7 @@ _níor_/_ar_/_nár_/_gur_.
 | **tabhair** | thug mé    | thugamar     | níor thug     | ar/nár/gur thug       |
 | **tar**     | tháinig mé | thángamar    | níor tháinig  | ar/nár/gur tháinig    |
 | **téigh**   | chuaigh mé | chuamar      | ní dheachaigh | an/nach/go ndeachaigh |
+
+
+----
+[Back to Index](../index.md)

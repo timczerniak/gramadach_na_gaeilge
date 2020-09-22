@@ -108,3 +108,7 @@ For dependent forms use _go_, and add an urú to the verb or _n-_ for vowels:
 | tabhair   | tabharfaidh mé | tabharfaimid | ní thabharfaidh | an/nach/go dtabharfaidh             |
 | **tar**   | tiocfaidh mé   | tiocfaimid   | ní thiocfaidh   | an/nach/go dtiocfaidh               |
 | **téigh** | rachaidh mé    | rachaimid    | ní rachaidh     | an/nach/go rachaidh                 |
+
+
+----
+[Back to Index](../index.md)
