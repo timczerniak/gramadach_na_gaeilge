@@ -6,18 +6,20 @@ The past tense (_An Aimsir Chaite_) is the easiest of the tenses to form.
 
 ## Regular Verbs
 
-* For roots that start with a consonant, put a séimhiú on the first letter
+* For roots that start with a consonant (apart from _sc-_, _sm-_, _sp-_ and _st-_),
+  put a séimhiú on the first letter (where that letter can take a séimhiú).
 * For roots that start with a vowel, put a _d’_ before the first letter
 * For roots that start with an _f_, put a _d’_ before and a séimhiú on the _f_
+* For roots that start with _sc-_, _sm-_, _sp-_ or _st-_, there is no change
 
 | Root      | Past                |
 | --------- | ------------------- |
 | siúil     | s**h**iúil mé       |
-| bris      | b**h**ris sé        |
-| ól        | **d’**ól siad       |
+| bris      | b**h**ris tú        |
+| léigh     | léigh sé            |
 | imigh     | **d’**imigh sí      |
-| fan       | **d’**fhan mé       |
-| freastail | **d’**fhreastail mé |
+| fan       | **d’**fhan sibh     |
+| stad      | stad siad           |
 
 This is the form used for _mé_, _tú_, _sé_, _sí_, _sibh_ and _siad_.
 
@@ -83,7 +85,7 @@ slender to broad:
 For negatives use _níor_:
 
 * _Níor ith mé mo dhinnéar_ (I didn't eat my dinner)
-* _Níor tháinig sí go dtí an cóisir_ (She didn't come to the party)
+* _Níor tháinig sí go dtí an chóisir_ (She didn't come to the party)
 
 For positive questions use _ar_:
 
