@@ -26,7 +26,7 @@ There are also the following common patterns (though there are exceptions too):
 | ------------------------------------------------------------- | ---------------------- | ------------------- |
 | Words ending in _-óir_/_-oir_, _-éir_/_-eir_ or _-úir_/_-uir_ | _ceoltóir_, _dochtúir_ |                     |
 | Monosyllabic words ending in _-eacht_ or _-acht_              | _ceacht_, _fuacht_     | _léacht_, _uacht_   |
-| Words ending with the diminuitive suffix _-ín_                | _cailín_               | _aintín_, _muinín   |
+| Words ending with the diminuitive suffix _-ín_                | _cailín_               | _aintín_, _muinín_  |
 | Words ending with _-ste_                                      | _páiste_, _coiste_     | _timpiste_, _aiste_ |
 | Loanwords from other languages                                | _vóta_, _bicycle_      |                     |
 
@@ -44,7 +44,7 @@ There are also the following common patterns (though there are exceptions too):
 
 ## The article before nouns in the nominative/accusative
 
-There are two words for 'the' in Irish, _an_ and _na_.
+There are two words for the definite article 'the' in Irish, _an_ and _na_.
 
 **Singular** nouns use _an_ in the nominative/accusative. Putting _an_ before
 nouns in the nominative & accusative cases causes initial mutations in 3
@@ -85,10 +85,10 @@ Recognisable plural endings include:
 
 * _-nna_, _-anna_, _-eanna_
 * _-acha_, _-eacha_
-* _í_, _-aí_
-* _-ithe_
+* _-í_, _-aí_
+* _-ithe_ (this is usually the plural form of singular nouns that end with -í)
 
-Some irregular plurals include:
+Some commonly used irregular plurals:
 
 * _bean_ &#8594; _mná_
 * _dia_ &#8594; _déithe_
