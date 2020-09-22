@@ -107,7 +107,7 @@ This section seems out of place, find a better place for it.
 | abair                 | abraigí             |
 | beir                  | beirigí             |
 | bí                    | bígí                |
-| clois (no imperative) | ----                |
+| clois                 | cloisigí            |
 | déan                  | déanaigí            |
 | faigh                 | faighigí            |
 | feic                  | feicigí             |
