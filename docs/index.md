@@ -27,3 +27,5 @@ add dialectical bits later.
     4. [The Future Tense](05_verbs/04_future.md)
     5. [The Habitual Past Tense](05_verbs/05_habitual_past.md)
     6. [The Conditional Tense](05_verbs/06_conditional.md)
+    7. [Verbal Nouns](05_verbs/07_verbal_nouns.md)
+    8. [Verbal Adjectives](05_verbs/08_verbal_adjectives.md)
