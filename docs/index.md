@@ -29,3 +29,4 @@ add dialectical bits later.
     6. [The Conditional Tense](05_verbs/06_conditional.md)
     7. [Verbal Nouns](05_verbs/07_verbal_nouns.md)
     8. [Verbal Adjectives](05_verbs/08_verbal_adjectives.md)
+    9. [The Copula](05_verbs/09_the_copula.md)
