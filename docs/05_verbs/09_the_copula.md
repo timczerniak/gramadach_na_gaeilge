@@ -54,7 +54,9 @@ It can link an adjective/noun phrase to a noun:
 
 These are just some examples of its usage. As mentioned, it's complex and it
 takes a while to get used to. For more examples, a good place to start is
-[Wikipedia](https://en.wikipedia.org/wiki/Irish_syntax#The_copula_is).
+[Wikipedia](https://en.wikipedia.org/wiki/Irish_syntax#The_copula_is). If you
+want to go really deep, [Nualéargais](http://nualeargais.ie/gnag/gram.htm) has a
+good guide.
 
 
 ## Forms of the Cupola
