@@ -57,20 +57,18 @@ _-igh_ with _-ú_ or _-iú_, but there are many exceptions (table below).
 For some verbs, the last consonant of the root is broadened to form the verbal
 noun:
 
-| Root      | Verbal Noun |
-| --------- | ----------- |
-| braith    | brath       |
-| ceangail  | ceangal     |
-| cogair    | cogar       |
-| cuir      | cur         |
-| freastail | freastal    |
-| goil      | gol         |
-| iompair   | iompar      |
-| loit      | lot         |
-| siúil     | siúl        |
-| soláthair | soláthar    |
-| taistil   | taisteal    |
-| tomhais   | tomhas      |
+* _braith_ &#8594; _brath_
+* _ceangail_ &#8594; _ceangal_
+* _cogair_ &#8594; _cogar_
+* _cuir_ &#8594; _cur_
+* _freastail_ &#8594; _freastal_
+* _goil_ &#8594; _gol_
+* _iompair_ &#8594; _iompar_
+* _loit_ &#8594; _lot_
+* _siúil_ &#8594; _siúl_
+* _soláthair_ &#8594; _soláthar_
+* _taistil_ &#8594; _taisteal_
+* _tomhais_ &#8594; _tomhas_
 
 For some verbs, the root and the verbal noun are the same
 
@@ -116,7 +114,8 @@ _**-(i)úint**_
 
 ### Irregular Verbs
 
-Verbal nouns are relatively irregular, the 11 irregular verbs are no different:
+Verbal nouns are relatively irregular, and the 11 irregular verbs are no
+different:
 
 | Root    | Verbal Noun |
 | ------- | ----------- |
