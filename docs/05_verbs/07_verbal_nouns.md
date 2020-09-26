@@ -36,23 +36,18 @@ _-igh_ with _-ú_ or _-iú_, but there are many exceptions (table below).
 * _aistrigh_ &#8594; _aistriú_
 * _bailigh_ &#8594; _bailiú_
 
-| Root      | Verbal Noun | Root         | Verbal Noun |
-| --------- | ----------- | ------------ | ----------- |
-| admhaigh  | admháil     | eisigh       | eisiúint    |
-| báigh     | bá          | fiafraigh    | fiafraí     |
-| brúigh    | brú         | glaoigh      | glaoch      |
-| buaigh    | buachan     | guigh        | guí         |
-| ceannaigh | ceannach    | imigh        | imeacht     |
-| cloígh    | cloí        | impigh       | impí        |
-| coinnigh  | coinneáil   | ionsaigh     | ionsaí      |
-| cónaigh   | cónaí       | léigh        | léamh       |
-| cráigh    | crá         | luigh        | luí         |
-| cuardaigh | cuardach    | nigh         | ní          |
-| cuimhnigh | cuimhneamh  | pléigh       | plé         |
-| dóigh     | dó          | sásaigh      | sásamh      |
-| dúisigh   | dúiseacht   | smaoinigh    | smaoineamh  |
-| éiligh    | éileamh     | suigh        | suí         |
-| éirigh    | éirí        | téigh (heat) | téamh       |
+| Root      | Verbal Noun | Root      | Verbal Noun | Root         | Verbal Noun |
+| --------- | ----------- | --------- | ----------- | ------------ | ----------- |
+| admhaigh  | admháil     | cuimhnigh | cuimhneamh  | impigh       | impí        |
+| báigh     | bá          | dóigh     | dó          | ionsaigh     | ionsaí      |
+| brúigh    | brú         | dúisigh   | dúiseacht   | léigh        | léamh       |
+| buaigh    | buachan     | éiligh    | éileamh     | luigh        | luí         |
+| ceannaigh | ceannach    | éirigh    | éirí        | nigh         | ní          |
+| cloígh    | cloí        | eisigh    | eisiúint    | pléigh       | plé         |
+| coinnigh  | coinneáil   | fiafraigh | fiafraí     | sásaigh      | sásamh      |
+| cónaigh   | cónaí       | glaoigh   | glaoch      | smaoinigh    | smaoineamh  |
+| cráigh    | crá         | guigh     | guí         | suigh        | suí         |
+| cuardaigh | cuardach    | imigh     | imeacht     | téigh (heat) | téamh       |
 
 For some verbs, the last consonant of the root is broadened to form the verbal
 noun:
